@@ -1,0 +1,1 @@
+{'dt': {'loss': 0.1428571428571429, 'params': {'depthLimit': 16, 'exampleLimit': 43}, 'iteration': 66, 'bestTree': <__main__.Node object at 0x0000027BE6471FD0>, 'runtime': 268.1861009000004, 'status': 'ok'}}

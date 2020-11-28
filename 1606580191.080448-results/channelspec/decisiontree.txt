@@ -1,0 +1,3115 @@
+channel_title
+	-Vox-likes
+		-1.0-dislikes
+			-2.0-comment_count
+				-1.0-Result: 0
+				-2.0-Result: 0
+			-1.0-Result: 0
+			-3.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-ESPN-likes
+		-0.0-comment_count
+			-1.0-Result: 0
+			-0.0-Result: 0
+			-2.0-Result: 0
+		-1.0-dislikes
+			-1.0-Result: 1
+			-2.0-Result: 1
+			-3.0-Result: 1
+			-0.0-Result: 0
+		-2.0-Result: 1
+	-The Tonight Show Starring Jimmy Fallon-likes
+		-1.0-dislikes
+			-1.0-Result: 0
+			-2.0-Result: 1
+			-3.0-Result: 1
+			-0.0-Result: 0
+		-0.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-TheEllenShow-comment_count
+		-0.0-dislikes
+			-1.0-Result: 0
+			-0.0-Result: 0
+			-2.0-Result: 0
+		-1.0-likes
+			-2.0-Result: 1
+			-1.0-Result: 1
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-Jimmy Kimmel Live-comment_count
+		-1.0-likes
+			-1.0-Result: 1
+			-2.0-Result: 1
+			-0.0-Result: 1
+		-0.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-CNN-likes
+		-0.0-comment_count
+			-2.0-Result: 0
+			-1.0-Result: 0
+			-3.0-Result: 0
+			-0.0-Result: 0
+		-1.0-dislikes
+			-3.0-Result: 1
+			-2.0-Result: 1
+			-1.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-Netflix-likes
+		-0.0-category_id
+			-24-tags
+				-1-dislikes
+					-0.0-Result: 0
+					-1.0-Result: 0
+					-2.0-Result: 0
+		-1.0-dislikes
+			-1.0-Result: 0
+			-2.0-Result: 0
+			-0.0-Result: 0
+			-3.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-Screen Junkies-likes
+		-2.0-dislikes
+			-2.0-category_id
+				-1-tags
+					-1-comment_count
+						-2.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+						-3.0-Result: 1
+			-1.0-Result: 1
+			-3.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-0.0-Result: 0
+	-The Late Show with Stephen Colbert-dislikes
+		-1.0-likes
+			-1.0-Result: 0
+			-0.0-Result: 0
+		-0.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-Late Night with Seth Meyers-likes
+		-1.0-dislikes
+			-1.0-Result: 1
+			-2.0-Result: 1
+			-0.0-Result: 0
+			-3.0-Result: 0
+		-2.0-Result: 1
+		-0.0-Result: 0
+	-The Late Late Show with James Corden-comment_count
+		-0.0-category_id
+			-24-dislikes
+				-0.0-Result: 0
+				-1.0-Result: 0
+				-2.0-Result: 0
+			-22-Result: 0
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 1
+	-NBA-comment_count
+		-0.0-likes
+			-0.0-category_id
+				-17-tags
+					-1-dislikes
+						-0.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 0
+						-1.0-Result: 0
+						-3.0-Result: 0
+						-2.0-Result: 0
+			-1.0-Result: 0
+		-1.0-Result: 0
+		-2.0-Result: 1
+	-Warner Bros. Pictures-likes
+		-2.0-Result: 1
+		-1.0-Result: 1
+		-3.0-Result: 1
+		-0.0-Result: 0
+	-Saturday Night Live-comment_count
+		-2.0-category_id
+			-24-tags
+				-1-likes
+					-2.0-dislikes
+						-3.0-Result: 1
+						-2.0-Result: 1
+					-3.0-Result: 1
+					-1.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 1
+		-0.0-Result: 0
+	-WIRED-comment_count
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-0.0-Result: 0
+		-3.0-Result: 1
+	-BuzzFeedVideo-likes
+		-2.0-comment_count
+			-1.0-Result: 1
+			-2.0-Result: 1
+			-3.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-0.0-Result: 0
+	-INSIDER-likes
+		-0.0-category_id
+			-19-Result: 0
+			-26-Result: 0
+			-24-Result: 0
+			-28-Result: 0
+			-1-Result: 0
+			-22-Result: 0
+		-1.0-Result: 0
+		-3.0-Result: 1
+		-2.0-Result: 1
+	-Bon Appétit-dislikes
+		-0.0-Result: 0
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-First We Feast-comment_count
+		-3.0-likes
+			-3.0-Result: 1
+			-2.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-0.0-Result: 0
+	-WWE-dislikes
+		-3.0-category_id
+			-17-tags
+				-1-likes
+					-2.0-Result: 1
+					-3.0-Result: 1
+		-2.0-category_id
+			-17-tags
+				-1-likes
+					-2.0-Result: 1
+					-3.0-Result: 1
+					-1.0-Result: 1
+		-1.0-Result: 0
+		-0.0-Result: 0
+	-CollegeHumor-comment_count
+		-2.0-dislikes
+			-2.0-Result: 1
+			-3.0-Result: 1
+			-1.0-Result: 0
+		-1.0-dislikes
+			-2.0-Result: 0
+			-1.0-Result: 0
+		-3.0-Result: 1
+		-0.0-Result: 0
+	-Smosh-comment_count
+		-2.0-likes
+			-2.0-dislikes
+				-2.0-Result: 1
+				-3.0-Result: 1
+			-3.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-TED-Ed-dislikes
+		-1.0-likes
+			-1.0-Result: 0
+			-2.0-Result: 0
+			-0.0-Result: 0
+		-0.0-category_id
+			-27-tags
+				-1-likes
+					-1.0-comment_count
+						-0.0-Result: 0
+						-1.0-Result: 0
+					-0.0-Result: 0
+		-2.0-Result: 1
+	-20th Century Fox-comment_count
+		-3.0-category_id
+			-1-tags
+				-1-likes
+					-3.0-dislikes
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+					-2.0-Result: 1
+					-1.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 1
+		-0.0-Result: 0
+	-Tom Scott-likes
+		-1.0-category_id
+			-27-tags
+				-1-dislikes
+					-0.0-Result: 0
+					-1.0-Result: 0
+					-2.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-FBE-comment_count
+		-3.0-category_id
+			-24-tags
+				-1-likes
+					-3.0-dislikes
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+					-2.0-Result: 1
+					-1.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-Vogue-dislikes
+		-2.0-Result: 1
+		-0.0-Result: 0
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-Life Noggin-dislikes
+		-1.0-likes
+			-1.0-category_id
+				-27-tags
+					-1-comment_count
+						-2.0-Result: 0
+						-1.0-Result: 0
+			-2.0-Result: 0
+		-2.0-Result: 1
+		-0.0-Result: 0
+		-3.0-Result: 1
+	-Safiya Nygaard-category_id
+		-22-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+					-2.0-Result: 1
+	-jacksfilms-category_id
+		-23-tags
+			-1-likes
+				-3.0-dislikes
+					-2.0-Result: 1
+					-3.0-Result: 1
+					-1.0-Result: 1
+				-2.0-Result: 1
+			-0-Result: 1
+	-HellthyJunkFood-dislikes
+		-1.0-category_id
+			-24-tags
+				-1-likes
+					-1.0-comment_count
+						-1.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 0
+						-2.0-Result: 0
+					-0.0-Result: 0
+		-2.0-Result: 0
+		-3.0-Result: 1
+		-0.0-Result: 0
+	-Vanity Fair-likes
+		-2.0-dislikes
+			-1.0-Result: 1
+			-2.0-Result: 1
+			-3.0-Result: 1
+			-0.0-Result: 0
+		-0.0-Result: 0
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-Tasty-likes
+		-2.0-dislikes
+			-2.0-Result: 1
+			-1.0-Result: 1
+			-3.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-SciShow-likes
+		-1.0-category_id
+			-27-tags
+				-1-dislikes
+					-1.0-comment_count
+						-1.0-Result: 0
+						-0.0-Result: 0
+						-2.0-Result: 0
+					-0.0-Result: 0
+					-2.0-Result: 0
+		-0.0-Result: 0
+		-2.0-Result: 1
+	-Good Mythical Morning-likes
+		-1.0-dislikes
+			-2.0-Result: 1
+			-1.0-Result: 0
+			-3.0-Result: 0
+		-2.0-Result: 1
+		-0.0-Result: 0
+	-The King of Random-comment_count
+		-2.0-likes
+			-1.0-dislikes
+				-2.0-Result: 1
+				-3.0-Result: 1
+				-1.0-Result: 0
+			-2.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-Washington Post-dislikes
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-0.0-Result: 0
+		-2.0-Result: 0
+	-AsapSCIENCE-likes
+		-2.0-dislikes
+			-3.0-Result: 1
+			-2.0-Result: 1
+			-1.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-Universal Pictures-comment_count
+		-3.0-category_id
+			-24-tags
+				-1-Result: 1
+				-0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 1
+		-0.0-Result: 0
+	-Binging with Babish-dislikes
+		-1.0-category_id
+			-24-tags
+				-1-likes
+					-2.0-comment_count
+						-2.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-Marvel Entertainment-likes
+		-3.0-category_id
+			-24-tags
+				-1-dislikes
+					-3.0-Result: 1
+					-1.0-Result: 1
+					-2.0-Result: 1
+		-1.0-Result: 0
+		-2.0-Result: 1
+	-Marques Brownlee-category_id
+		-28-tags
+			-1-likes
+				-3.0-dislikes
+					-2.0-Result: 1
+					-3.0-Result: 1
+				-2.0-Result: 1
+	-Great Big Story-dislikes
+		-0.0-comment_count
+			-0.0-category_id
+				-22-tags
+					-1-likes
+						-0.0-Result: 0
+						-1.0-Result: 0
+				-19-Result: 0
+				-15-Result: 0
+				-17-Result: 0
+			-1.0-Result: 0
+		-1.0-Result: 1
+	-NFL-likes
+		-1.0-dislikes
+			-2.0-Result: 1
+			-1.0-Result: 1
+			-3.0-Result: 1
+			-0.0-Result: 1
+		-0.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-Simon's Cat-dislikes
+		-1.0-Result: 0
+		-0.0-Result: 0
+		-2.0-Result: 1
+	-Dude Perfect-category_id
+		-17-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+	-TODAY-likes
+		-0.0-dislikes
+			-2.0-Result: 0
+			-0.0-Result: 0
+			-3.0-Result: 0
+			-1.0-Result: 0
+		-2.0-Result: 1
+		-1.0-Result: 1
+	-CrazyRussianHacker-comment_count
+		-2.0-dislikes
+			-2.0-likes
+				-2.0-Result: 1
+				-3.0-Result: 1
+				-1.0-Result: 1
+			-3.0-Result: 1
+			-1.0-Result: 0
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-E! Entertainment-comment_count
+		-0.0-likes
+			-0.0-dislikes
+				-0.0-Result: 0
+				-1.0-Result: 0
+			-1.0-Result: 1
+		-1.0-Result: 1
+	-Kurzgesagt – In a Nutshell-category_id
+		-27-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+					-2.0-Result: 1
+	-NikkieTutorials-category_id
+		-26-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-Result: 1
+					-2.0-Result: 1
+					-1.0-Result: 1
+	-Star Wars-comment_count
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-Complex-likes
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-0.0-Result: 0
+		-1.0-Result: 0
+	-The Voice-dislikes
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+		-0.0-Result: 0
+	-NBC News-comment_count
+		-0.0-Result: 0
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-The Slow Mo Guys-comment_count
+		-2.0-category_id
+			-24-Result: 1
+			-22-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 1
+	-Hannah Stocking-dislikes
+		-3.0-category_id
+			-23-tags
+				-1-likes
+					-3.0-comment_count
+						-3.0-Result: 1
+						-2.0-Result: 1
+					-2.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-The Graham Norton Show-likes
+		-2.0-Result: 1
+		-1.0-Result: 1
+		-0.0-Result: 0
+	-Inside Edition-likes
+		-0.0-category_id
+			-25-tags
+				-1-dislikes
+					-0.0-Result: 0
+					-1.0-Result: 0
+					-2.0-Result: 0
+					-3.0-Result: 0
+		-1.0-Result: 1
+		-2.0-Result: 1
+	-Brave Wilderness-likes
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-James Charles-likes
+		-3.0-dislikes
+			-3.0-category_id
+				-24-tags
+					-1-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+			-2.0-Result: 1
+		-2.0-Result: 0
+	-Sony Pictures Entertainment-comment_count
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 1
+		-0.0-Result: 0
+	-Team Coco-likes
+		-2.0-Result: 1
+		-1.0-Result: 1
+		-0.0-Result: 0
+		-3.0-Result: 1
+	-iJustine-dislikes
+		-1.0-Result: 0
+		-3.0-Result: 1
+		-2.0-Result: 0
+		-0.0-Result: 0
+	-REACT-likes
+		-2.0-category_id
+			-24-tags
+				-1-dislikes
+					-2.0-comment_count
+						-2.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+						-3.0-Result: 1
+					-3.0-Result: 1
+					-1.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-Refinery29-likes
+		-0.0-category_id
+			-26-tags
+				-1-dislikes
+					-0.0-comment_count
+						-0.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 0
+						-1.0-Result: 0
+					-1.0-Result: 0
+					-2.0-Result: 0
+			-22-Result: 0
+			-24-Result: 0
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-You Suck At Cooking-dislikes
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-ABC News-comment_count
+		-0.0-Result: 0
+		-1.0-Result: 0
+		-3.0-Result: 1
+		-2.0-Result: 0
+	-Tati-comment_count
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-Bad Lip Reading-dislikes
+		-3.0-category_id
+			-23-tags
+				-1-likes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+						-2.0-Result: 1
+					-2.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 1
+	-CaseyNeistat-category_id
+		-22-tags
+			-1-Result: 1
+			-0-Result: 1
+	-LOL Network-likes
+		-1.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-itsAlexClark-dislikes
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-0.0-Result: 0
+	-Rosanna Pansino-comment_count
+		-2.0-dislikes
+			-1.0-Result: 0
+			-2.0-Result: 1
+			-0.0-Result: 0
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-IISuperwomanII-likes
+		-3.0-category_id
+			-23-tags
+				-1-dislikes
+					-2.0-Result: 1
+					-3.0-Result: 1
+					-1.0-Result: 1
+		-2.0-Result: 0
+	-The Film Theorists-category_id
+		-1-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+					-2.0-Result: 1
+				-2.0-Result: 1
+	-American Idol-dislikes
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 1
+	-Charlie Puth-dislikes
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 1
+	-CinemaSins-dislikes
+		-3.0-category_id
+			-1-tags
+				-1-likes
+					-2.0-Result: 1
+					-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 1
+	-Entertainment Tonight-comment_count
+		-0.0-Result: 0
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-The View-likes
+		-0.0-category_id
+			-25-Result: 0
+			-24-Result: 0
+			-29-Result: 0
+		-1.0-Result: 0
+	-Good Morning America-likes
+		-1.0-Result: 1
+		-0.0-Result: 0
+		-2.0-Result: 1
+	-Michelle Khare-likes
+		-1.0-Result: 0
+		-2.0-Result: 1
+		-0.0-Result: 0
+	-The New York Times-comment_count
+		-0.0-Result: 0
+		-1.0-Result: 0
+		-3.0-Result: 1
+		-2.0-Result: 1
+	-CBS This Morning-likes
+		-0.0-category_id
+			-25-tags
+				-1-dislikes
+					-1.0-Result: 0
+					-0.0-Result: 0
+					-2.0-Result: 0
+					-3.0-Result: 0
+		-1.0-Result: 1
+	-Matt Stonie-category_id
+		-24-tags
+			-1-likes
+				-2.0-Result: 1
+				-3.0-Result: 1
+	-BBC News-likes
+		-0.0-Result: 0
+		-1.0-Result: 1
+	-Domics-category_id
+		-23-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-Result: 1
+					-2.0-Result: 1
+	-CBS News-dislikes
+		-0.0-Result: 0
+		-1.0-Result: 1
+		-2.0-Result: 1
+		-3.0-Result: 0
+	-LaurDIY-dislikes
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 1
+		-0.0-Result: 0
+	-nigahiga-category_id
+		-24-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+					-2.0-Result: 1
+	-BuzzFeedBlue-comment_count
+		-2.0-Result: 1
+		-1.0-Result: 1
+		-3.0-Result: 1
+		-0.0-Result: 0
+	-Laura Lee-dislikes
+		-2.0-likes
+			-2.0-comment_count
+				-2.0-Result: 1
+				-3.0-Result: 1
+			-3.0-Result: 1
+		-1.0-Result: 0
+	-Nintendo-likes
+		-1.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-0.0-Result: 0
+	-The Verge-likes
+		-1.0-Result: 0
+		-0.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-ExplosmEntertainment-dislikes
+		-2.0-likes
+			-2.0-Result: 1
+			-3.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-Watch What Happens Live with Andy Cohen-category_id
+		-24-tags
+			-1-likes
+				-0.0-dislikes
+					-0.0-Result: 0
+					-1.0-Result: 0
+					-3.0-Result: 0
+					-2.0-Result: 0
+	-The Dodo-comment_count
+		-0.0-Result: 0
+		-1.0-Result: 0
+		-3.0-Result: 1
+		-2.0-Result: 1
+	-Guava Juice-dislikes
+		-3.0-category_id
+			-24-tags
+				-1-likes
+					-3.0-Result: 1
+					-2.0-Result: 1
+					-1.0-Result: 1
+		-2.0-Result: 0
+	-colinfurze-comment_count
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-HBO-likes
+		-2.0-Result: 1
+		-0.0-Result: 0
+		-1.0-Result: 1
+	-Will Smith-likes
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-Cut-likes
+		-1.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-0.0-Result: 0
+	-PTXofficial-dislikes
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-NBC Sports-likes
+		-0.0-dislikes
+			-1.0-Result: 0
+			-2.0-Result: 1
+			-0.0-Result: 0
+		-1.0-Result: 1
+		-2.0-Result: 1
+	-Britain's Got Talent-category_id
+		-24-tags
+			-1-likes
+				-3.0-Result: 1
+				-2.0-Result: 1
+				-1.0-Result: 1
+	-Unbox Therapy-category_id
+		-28-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+					-2.0-Result: 1
+		-1-Result: 1
+	-Grace Helbig-category_id
+		-22-tags
+			-1-likes
+				-1.0-dislikes
+					-0.0-Result: 0
+					-1.0-Result: 0
+				-2.0-Result: 0
+	-BBC Radio 1-dislikes
+		-2.0-Result: 1
+		-0.0-Result: 0
+		-1.0-Result: 1
+		-3.0-Result: 1
+	-As/Is-likes
+		-2.0-dislikes
+			-2.0-Result: 1
+			-1.0-Result: 1
+			-0.0-Result: 0
+		-1.0-Result: 0
+	-TIME-likes
+		-0.0-Result: 0
+		-2.0-Result: 1
+		-1.0-Result: 1
+	-FOX Soccer-dislikes
+		-0.0-Result: 0
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-Matthias-dislikes
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-Markiplier-comment_count
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-Rudy Mancuso-category_id
+		-23-Result: 1
+		-10-Result: 1
+	-Lele Pons-category_id
+		-23-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+						-2.0-Result: 1
+	-Focus Features-likes
+		-2.0-Result: 1
+		-0.0-Result: 0
+		-3.0-Result: 1
+	-Amber Scholl-likes
+		-3.0-Result: 1
+		-2.0-Result: 0
+		-1.0-Result: 0
+	-Billboard-likes
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-2.0-Result: 0
+		-0.0-Result: 0
+	-Movieclips Trailers-likes
+		-1.0-Result: 1
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-0.0-Result: 0
+	-Gus Johnson-comment_count
+		-1.0-Result: 0
+		-0.0-Result: 0
+		-2.0-Result: 1
+	-RM Videos-category_id
+		-23-Result: 0
+		-24-Result: 0
+	-Nerdwriter1-category_id
+		-24-tags
+			-1-likes
+				-2.0-Result: 0
+				-1.0-Result: 0
+	-Studio C-category_id
+		-23-tags
+			-1-likes
+				-1.0-dislikes
+					-2.0-Result: 0
+					-1.0-Result: 0
+				-2.0-Result: 0
+	-How Ridiculous-likes
+		-3.0-category_id
+			-17-tags
+				-1-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+		-1.0-Result: 0
+		-2.0-Result: 1
+	-KathleenLights-category_id
+		-26-tags
+			-1-likes
+				-2.0-dislikes
+					-1.0-Result: 0
+					-2.0-Result: 0
+	-William Osman-likes
+		-1.0-Result: 0
+		-2.0-Result: 0
+		-3.0-Result: 1
+	-What's Inside?-dislikes
+		-3.0-category_id
+			-28-Result: 1
+			-17-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-How To Cake It-comment_count
+		-2.0-Result: 0
+		-1.0-Result: 0
+		-0.0-Result: 0
+	-ibighit-category_id
+		-10-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+	-SMTOWN-likes
+		-3.0-category_id
+			-10-tags
+				-1-dislikes
+					-3.0-Result: 1
+					-2.0-Result: 1
+					-1.0-Result: 1
+		-2.0-Result: 0
+	-TMZ-comment_count
+		-0.0-Result: 0
+		-3.0-Result: 1
+		-1.0-Result: 1
+		-2.0-Result: 0
+	-Paramount Pictures-likes
+		-3.0-Result: 1
+		-1.0-Result: 1
+		-0.0-Result: 0
+		-2.0-Result: 1
+	-ThreadBanger-likes
+		-2.0-Result: 1
+		-1.0-Result: 0
+		-3.0-Result: 1
+	-ShawnMendesVEVO-likes
+		-3.0-Result: 1
+		-2.0-Result: 0
+	-Full Frontal with Samantha Bee-comment_count
+		-1.0-Result: 0
+		-3.0-Result: 1
+		-2.0-Result: 0
+		-0.0-Result: 0
+	-WOWPresents-category_id
+		-24-tags
+			-1-likes
+				-1.0-Result: 0
+				-0.0-Result: 0
+				-2.0-Result: 0
+	-AaronsAnimals-comment_count
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-Jenny Nicholson-category_id
+		-1-tags
+			-0-likes
+				-1.0-Result: 0
+				-2.0-Result: 0
+				-0.0-Result: 0
+			-1-Result: 0
+	-Atlantic Records-likes
+		-2.0-Result: 0
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-0.0-Result: 0
+	-IGN-comment_count
+		-1.0-Result: 0
+		-0.0-Result: 0
+		-2.0-Result: 0
+		-3.0-Result: 1
+	-Business Insider-category_id
+		-25-Result: 0
+		-26-Result: 1
+		-17-Result: 0
+	-SpaceX-likes
+		-2.0-Result: 1
+		-3.0-Result: 1
+		-1.0-Result: 0
+	-Lucas the Spider-category_id
+		-1-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+					-2.0-Result: 1
+	-Jackie Aina-dislikes
+		-1.0-Result: 0
+		-2.0-Result: 0
+		-3.0-Result: 1
+		-0.0-Result: 0
+	-Simone Giertz-tags
+		-1-Result: 0
+		-0-Result: 1
+	-Rooster Teeth-likes
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-JunsKitchen-likes
+		-3.0-category_id
+			-26-tags
+				-1-dislikes
+					-2.0-Result: 1
+					-3.0-Result: 1
+					-1.0-Result: 1
+		-2.0-Result: 0
+	-FC Barcelona-category_id
+		-17-Result: 0
+		-24-Result: 0
+	-BuzzFeed Celeb-likes
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-jypentertainment-category_id
+		-10-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+	-The Daily Show with Trevor Noah-dislikes
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-2.0-Result: 0
+	-Marzia-dislikes
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-2.0-Result: 1
+		-0.0-Result: 0
+	-vlogbrothers-category_id
+		-22-tags
+			-1-likes
+				-1.0-dislikes
+					-1.0-Result: 0
+					-0.0-Result: 0
+				-2.0-Result: 0
+	-Kelly Clarkson-dislikes
+		-2.0-Result: 1
+		-0.0-Result: 0
+		-1.0-Result: 0
+	-Tyler Oakley-dislikes
+		-0.0-Result: 0
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-2.0-Result: 0
+	-Linus Tech Tips-likes
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 0
+	-SiaVEVO-comment_count
+		-3.0-Result: 1
+		-2.0-Result: 1
+		-1.0-Result: 1
+	-FaZe Rug-category_id
+		-20-tags
+			-1-likes
+				-3.0-dislikes
+					-3.0-comment_count
+						-3.0-comments_disabled
+							-False-ratings_disabled
+								-False-video_error_or_removed
+									-False-Result: 1
+	-ChainsmokersVEVO-dislikes
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-2.0-Result: 1
+	-The School of Life-likes
+		-1.0-Result: 0
+		-0.0-Result: 0
+		-2.0-Result: 1
+	-ColliderVideos-category_id
+		-24-tags
+			-1-likes
+				-0.0-dislikes
+					-0.0-Result: 0
+					-1.0-Result: 0
+	-Lionsgate Movies-likes
+		-2.0-Result: 1
+		-1.0-Result: 1
+		-0.0-Result: 0
+	-Anwar Jibawi-category_id
+		-23-tags
+			-1-likes
+				-3.0-Result: 1
+				-2.0-Result: 1
+	-Guardian News-likes
+		-0.0-Result: 0
+		-1.0-Result: 1
+	-Simply Nailogical-category_id
+		-24-tags
+			-1-likes
+				-3.0-dislikes
+					-2.0-Result: 1
+					-1.0-Result: 1
+	-JennaMarbles-category_id
+		-23-tags
+			-1-likes
+				-3.0-dislikes
+					-2.0-Result: 1
+					-3.0-Result: 1
+	-Diplo-likes
+		-3.0-Result: 1
+		-1.0-Result: 0
+		-2.0-Result: 1
+	-Breakfast Club Power 105.1 FM-dislikes
+		-1.0-Result: 0
+		-2.0-Result: 1
+		-3.0-Result: 1
+	-Carli Bybel-comment_count
+		-1.0-Result: 0
+		-2.0-Result: 1
+	-AnthonyPadilla-Result: 0
+	-Teen Vogue-Result: 1
+	-PBS Eons-Result: 0
+	-MinuteEarth-Result: 0
+	-CalumScottVEVO-Result: 1
+	-Mr. Kate-Result: 1
+	-MLG Highlights-Result: 1
+	-GQ-Result: 0
+	-John Campea-Result: 0
+	-CBS Los Angeles-Result: 0
+	-Strictly Dumpling-Result: 1
+	-Wendy Williams-Result: 0
+	-Austin Evans-Result: 0
+	-Alan Walker-Result: 1
+	-Doug DeMuro-Result: 1
+	-MyHarto-Result: 0
+	-Amazon Studios-Result: 1
+	-Jaclyn Hill-Result: 1
+	-MatthewSantoro-Result: 0
+	-TroyeSivanVEVO-Result: 1
+	-Hydraulic Press Channel-Result: 1
+	-A24-Result: 1
+	-Red Bull-Result: 1
+	-Epicurious-Result: 1
+	-EverythingApplePro-Result: 0
+	-Kandee Johnson-Result: 0
+	-Skip and Shannon: UNDISPUTED-Result: 1
+	-How To Cook That-Result: 0
+	-ArianaGrandeVevo-Result: 1
+	-theneedledrop-Result: 0
+	-BBC Earth-Result: 0
+	-Cobra Kai-Result: 1
+	-Lip Sync Battle-Result: 0
+	-MeghanTrainorVEVO-Result: 1
+	-National Geographic-Result: 0
+	-The Game Theorists-Result: 1
+	-zefrank1-Result: 1
+	-TaylorSwiftVEVO-Result: 1
+	-CAguileraVEVO-Result: 1
+	-Anna Akana-Result: 0
+	-Casey Holmes-Result: 0
+	-BostonDynamics-Result: 1
+	-SamSmithWorldVEVO-Result: 1
+	-Lauv-Result: 1
+	-ViralHog-Result: 0
+	-JenniferLopezVEVO-Result: 1
+	-The Infographics Show-Result: 0
+	-bill wurtz-Result: 1
+	-Cole and Marmalade-Result: 0
+	-Half as Interesting-Result: 0
+	-JerryRigEverything-Result: 0
+	-Disney Movie Trailers-Result: 1
+	-Lucas and Marcus-Result: 1
+	-SZAVEVO-Result: 1
+	-Mike Boyd-Result: 0
+	-SigridVEVO-Result: 1
+	-NickiMinajAtVEVO-Result: 1
+	-The Real Daytime-Result: 0
+	-ScreenJunkies News-Result: 0
+	-grav3yardgirl-Result: 1
+	-Bleacher Report-Result: 1
+	-ImagineDragonsVEVO-Result: 1
+	-Wendover Productions-Result: 0
+	-Gabbie Hanna-Result: 1
+	-Papa Jake-Result: 1
+	-Clash Royale-Result: 1
+	-MSNBC-Result: 0
+	-Glamour Magazine-Result: 1
+	-Disney•Pixar-Result: 1
+	-Architectural Digest-Result: 0
+	-CalvinHarrisVEVO-Result: 1
+	-TheReportOfTheWeek-Result: 1
+	-TBS-Result: 1
+	-Janelle Monáe-Result: 1
+	-Hevesh5-Result: 1
+	-Clevver Style-Result: 0
+	-DamonAndJo-Result: 0
+	-Dancing With The Stars-Result: 0
+	-Jaiden Animations-Result: 1
+	-Liza Koshy-Result: 1
+	-jacksepticeye-Result: 1
+	-emmymadeinjapan-Result: 0
+	-Numberphile-Result: 0
+	-KeithUrbanVEVO-Result: 0
+	-Fueled By Ramen-Result: 1
+	-BBC-Result: 1
+	-David Guetta-Result: 1
+	-The Hollywood Reporter-Result: 0
+	-USA TODAY-Result: 0
+	-Maroon5VEVO-Result: 1
+	-Glam&Gore-Result: 0
+	-ZaynVEVO-Result: 1
+	-Feast Of Fiction-Result: 0
+	-BBC Three-Result: 0
+	-BBCRadio1VEVO-Result: 0
+	-ELLE-Result: 0
+	-Eater-Result: 0
+	-TED-Result: 1
+	-Hulu-Result: 1
+	-Desi Perkins-Result: 0
+	-Brad Mondo-Result: 1
+	-CNET-Result: 0
+	-ANDREW HUANG-Result: 0
+	-Ed Sheeran-Result: 1
+	-truTV-Result: 0
+	-Zoella-Result: 1
+	-Klossy-Result: 0
+	-CBC News-Result: 1
+	-Clevver News-Result: 0
+	-C-SPAN-Result: 0
+	-EnriqueIglesiasVEVO-Result: 1
+	-Condé Nast Traveler-Result: 0
+	-ONE Media-Result: 1
+	-BANGTANTV-Result: 1
+	-Sailor J-Result: 0
+	-Wong Fu Productions-Result: 0
+	-Impulse-Result: 1
+	-The Scran Line-Result: 0
+	-DALLMYD-Result: 1
+	-VH1-Result: 1
+	-VICE News-Result: 0
+	-Jeremy Jahns-Result: 0
+	-videogamedunkey-Result: 1
+	-The CW Television Network-Result: 0
+	-ChrisStapletonVEVO-Result: 0
+	-Discovery UK-Result: 1
+	-Sylvia Gani-Result: 0
+	-Team Edge-Result: 1
+	-The Action Lab-Result: 1
+	-The Food Ranger-Result: 0
+	-EminemVEVO-Result: 1
+	-FlorenceMachineVEVO-Result: 1
+	-Rita Ora-Result: 1
+	-Genius-Result: 0
+	-BuzzFeed Nifty-Result: 0
+	-Panic! At The Disco-Result: 1
+	-Daily Dose Of Internet-Result: 1
+	-BackstreetBoysVEVO-Result: 1
+	-Chris Stuckmann-Result: 0
+	-SugarlandVEVO-Result: 1
+	-CGP Grey-Result: 1
+	-carrieunderwoodVEVO-Result: 1
+	-ConnorFranta-Result: 0
+	-LIVEKellyandRyan-Result: 0
+	-Big Marvel-Result: 1
+	-justintimberlakeVEVO-Result: 1
+	-Cardi B-Result: 1
+	-KaceyMusgravesVEVO-Result: 0
+	-GEazyMusicVEVO-Result: 1
+	-HalseyVEVO-Result: 1
+	-Fox News-Result: 0
+	-Shawn Mendes-Result: 1
+	-Brian Hull-Result: 0
+	-Taylor Nicole Dean-Result: 0
+	-Gibi ASMR-Result: 0
+	-ABC News (Australia)-Result: 1
+	-SelenaGomezVEVO-Result: 1
+	-Selena Gomez-Result: 1
+	-NickJonasVEVO-Result: 0
+	-ElleOfTheMills-Result: 1
+	-AlishaMarie-Result: 1
+	-Call of Duty-Result: 1
+	-JelloApocalypse-Result: 1
+	-Food Wishes-Result: 0
+	-Madelaine Petsch-Result: 0
+	-Davie504-Result: 0
+	-IFC Films-Result: 0
+	-Doctor Mike-Result: 1
+	-Mark Rober-Result: 1
+	-TheOdd2sOut-Result: 1
+	-The Talk-Result: 0
+	-FoxStarHindi-Result: 1
+	-ScreenPrism-Result: 0
+	-Hope For Paws - Official Rescue Channel-Result: 0
+	-Apple-Result: 1
+	-TheSorryGirls-Result: 0
+	-杰威爾音樂 JVR Music-Result: 1
+	-DemiLovatoVEVO-Result: 1
+	-GraceVanderWaalVEVO-Result: 1
+	-Variety-Result: 0
+	-SB Nation-Result: 0
+	-FallOutBoyVEVO-Result: 1
+	-Kanye West - Topic-Result: 1
+	-johnmayerVEVO-Result: 1
+	-Cracked-Result: 0
+	-GoPro-Result: 0
+	-Lisa Eldridge-Result: 0
+	-Fortnite-Result: 1
+	-MiguelVEVO-Result: 1
+	-TinasheOfficialVEVO-Result: 1
+	-Google-Result: 0
+	-Alissa Ashley-Result: 0
+	-Daddy Yankee-Result: 1
+	-JamesBayVEVO-Result: 1
+	-jeffreestar-Result: 1
+	-Matthias Wandel-Result: 0
+	-Marshmello-Result: 1
+	-RemyMaVEVO-Result: 1
+	-Daisy Marquez-Result: 0
+	-CNBC-Result: 0
+	-The Royal Family Channel-Result: 0
+	-MyLifeAsEva-Result: 1
+	-Queen Naija-Result: 1
+	-SuperCarlinBrothers-Result: 0
+	-ProZD-Result: 1
+	-Good Mythical MORE-Result: 0
+	-NCAA March Madness-Result: 0
+	-Primitive Technology-Result: 1
+	-LiamPayneVEVO-Result: 1
+	-UFC ON FOX-Result: 1
+	-U2VEVO-Result: 0
+	-Yes Theory-Result: 1
+	-Vat19-Result: 1
+	-Joey Graceffa-Result: 0
+	-Jason Derulo-Result: 1
+	-Björk-Result: 0
+	-CamilaCabelloVEVO-Result: 1
+	-The Official Pokémon YouTube Channel-Result: 1
+	-KendrickLamarVEVO-Result: 1
+	-Kaplamino-Result: 1
+	-Gordon Ramsay-Result: 1
+	-The White House-Result: 0
+	-The Grand Tour-Result: 0
+	-Simon and Martina-Result: 0
+	-merrelltwins-Result: 0
+	-Laura in the Kitchen-Result: 0
+	-Sidemen-Result: 1
+	-Molly Burke-Result: 0
+	-Gallant-Result: 0
+	-Nerdist-Result: 0
+	-Logan Paul Vlogs-Result: 1
+	-Associated Press-Result: 0
+	-DONG-Result: 1
+	-FX Networks-Result: 0
+	-Olivia Jade-Result: 0
+	-5-Minute Crafts-Result: 1
+	-Miranda Sings-Result: 0
+	-5SOSVEVO-Result: 1
+	-DanTDM-Result: 1
+	-Allure-Result: 0
+	-NHL-Result: 0
+	-Mayim Bialik-Result: 0
+	-DisneyMusicVEVO-Result: 0
+	-FiftyShadesVEVO-Result: 1
+	-Mental Floss-Result: 0
+	-Christen Dominique-Result: 0
+	-Battle Universe-Result: 1
+	-CupcakeJemma-Result: 0
+	-Poppy-Result: 0
+	-Kanye West-Result: 1
+	-Dan And Shay-Result: 1
+	-Physics Girl-Result: 0
+	-miniminter-Result: 1
+	-Ladylike-Result: 1
+	-Tyler, The Creator-Result: 1
+	-MalumaVEVO-Result: 1
+	-LadyGagaVEVO-Result: 1
+	-PatrickStarrr-Result: 1
+	-Primitive Survival Tool-Result: 1
+	-ChildishGambinoVEVO-Result: 1
+	-Josh Groban-Result: 0
+	-MigosVEVO-Result: 1
+	-Helpful Vancouver Vet-Result: 1
+	-Tina Yong-Result: 0
+	-NBC-Result: 0
+	-camelsandfriends-Result: 1
+	-PlayOverwatch-Result: 1
+	-Linkin Park-Result: 0
+	-The Sims-Result: 1
+	-todrickhall-Result: 1
+	-PBS NewsHour-Result: 0
+	-Nikita Dragun-Result: 1
+	-FOX Sports-Result: 0
+	-AntsCanada-Result: 1
+	-Hamilton: An American Musical-Result: 1
+	-Al Jazeera English-Result: 0
+	-Colleen Ballinger-Result: 0
+	-FORMULA 1-Result: 1
+	-Nat Geo WILD-Result: 1
+	-Prince-Result: 1
+	-Taylor Swift-Result: 1
+	-BeckyGVEVO-Result: 1
+	-Jonathan Morrison-Result: 0
+	-1theK (원더케이)-Result: 1
+	-KhalidVEVO-Result: 1
+	-Dragonfoxgirl-Result: 1
+	-Andre Black Nerd-Result: 0
+	-Disney Parks-Result: 0
+	-jennxpenn-Result: 0
+	-CelineDionVEVO-Result: 1
+	-Today I Found Out-Result: 0
+	-Tia Mowry's Quick Fix-Result: 0
+	-Blossom-Result: 1
+	-Chris Smoove-Result: 1
+	-Kitchen Nightmares-Result: 1
+	-Tim Milgram-Result: 1
+	-Munchies-Result: 0
+	-davematthewsbandVEVO-Result: 0
+	-Lindsey Stirling-Result: 1
+	-Hunter Hayes-Result: 0
+	-Denitslava Makeup-Result: 0
+	-NBA on TNT-Result: 1
+	-Harper's BAZAAR-Result: 0
+	-Dobre Brothers-Result: 1
+	-NASA Jet Propulsion Laboratory-Result: 0
+	-LastWeekTonight-Result: 1
+	-JasonAldeanVEVO-Result: 0
+	-Tech Insider-Result: 0
+	-Simply Not Logical-Result: 1
+	-TRL-Result: 1
+	-Tested-Result: 0
+	-SabrinaCarpenterVEVO-Result: 1
+	-FifthHarmonyVEVO-Result: 1
+	-RealLifeLore-Result: 0
+	-OmarGoshTV-Result: 1
+	-Butch Hartman-Result: 1
+	-Waterjet Channel-Result: 1
+	-iHasCupquake-Result: 1
+	-J. Cole-Result: 1
+	-MamaMiaMakeup-Result: 1
+	-FoundFlix-Result: 1
+	-Jack and Dean-Result: 0
+	-Bleecker Street-Result: 1
+	-Philip DeFranco-Result: 1
+	-MTV-Result: 1
+	-Comedy Central-Result: 0
+	-JuliaMichaelsVEVO-Result: 1
+	-MLive-Result: 0
+	-John Mayer-Result: 1
+	-PressTube-Result: 1
+	-The New Yorker-Result: 1
+	-DaveHax-Result: 1
+	-Jess Glynne-Result: 1
+	-Billie Eilish-Result: 1
+	-HollywoodLife-Result: 1
+	-Bachelor Nation on ABC-Result: 0
+	-Fleur DeForce-Result: 0
+	-Casually Explained-Result: 1
+	-fantano-Result: 0
+	-Jake Paul-Result: 1
+	-Nikki Glamour-Result: 0
+	-PinkVEVO-Result: 1
+	-FightHype.com-Result: 0
+	-Shoshana Bean-Result: 0
+	-SPORTSNET-Result: 0
+	-Carter Sharer-Result: 1
+	-Colleen Vlogs-Result: 0
+	-Ariana Grande`-Result: 1
+	-Vsauce2-Result: 1
+	-KaneBrownVEVO-Result: 0
+	-KylieMinogueOnVEVO-Result: 0
+	-PewDiePie-Result: 1
+	-KatyPerryVEVO-Result: 1
+	-MustardVEVO-Result: 1
+	-Australian Open TV-Result: 0
+	-Sara Dietschy-Result: 0
+	-Because Science-Result: 1
+	-CBS Miami-Result: 0
+	-AbrahamMateoVEVO-Result: 1
+	-McDonald's-Result: 1
+	-TheWeekndVEVO-Result: 1
+	-TV Promos-Result: 0
+	-jessiepaege-Result: 0
+	-Thomas Sanders-Result: 0
+	-Inanna Sarkis-Result: 1
+	-JOLLY-Result: 0
+	-TechSmartt-Result: 1
+	-Tanya Burr-Result: 1
+	-MLB-Result: 1
+	-MBCentertainment-Result: 1
+	-Portugal. The Man-Result: 0
+	-Microsoft Surface-Result: 1
+	-Nicki Minaj-Result: 1
+	-FOX 17 WXMI-Result: 1
+	-I Like To Make Stuff-Result: 0
+	-CalebCity-Result: 0
+	-fosterthepeopleVEVO-Result: 1
+	-5FDPVEVO-Result: 1
+	-Laura Kampf-Result: 0
+	-GingerPale-Result: 0
+	-Jason Mraz-Result: 1
+	-NiallHoranVEVO-Result: 1
+	-Merrell Twins Live-Result: 0
+	-Mason Ramsey-Result: 1
+	-Eh Bee Family-Result: 1
+	-America's Got Talent-Result: 1
+	-T-Mobile-Result: 1
+	-Carrie Underwood-Result: 1
+	-Science Magazine-Result: 1
+	-BURGER KING-Result: 1
+	-Mike Shinoda-Result: 1
+	-euronews (in English)-Result: 0
+	-standupmaths-Result: 0
+	-BillieEilishVEVO-Result: 1
+	-The Bella Twins-Result: 0
+	-Nicole Guerriero-Result: 0
+	-Bobby Duke Arts-Result: 0
+	-keshaVEVO-Result: 1
+	-weezer-Result: 1
+	-NickyJamTV-Result: 1
+	-DidYouKnowGaming?-Result: 0
+	-Ryland Adams-Result: 1
+	-Hometalk-Result: 1
+	-NJ.com-Result: 0
+	-Sister Circle Live-Result: 0
+	-boogie2988-Result: 1
+	-STX Entertainment-Result: 1
+	-STARZ-Result: 0
+	-Kylie Cosmetics-Result: 1
+	-Vance Joy-Result: 0
+	-Channel Awesome-Result: 0
+	-Sam O'Nella Academy-Result: 1
+	-WatchMojo.com-Result: 1
+	-TWICE JAPAN OFFICIAL YouTube Channel-Result: 1
+	-YouTube Spotlight-Result: 1
+	-Tyler Stalman-Result: 0
+	-Comicbook.com-Result: 0
+	-Macklemore LLC-Result: 1
+	-NASA Goddard-Result: 1
+	-AzealiaBanksVEVO-Result: 1
+	-AzzyLand-Result: 1
+	-Omeleto-Result: 0
+	-SnowPatrolVEVO-Result: 1
+	-Bobby Bones-Result: 1
+	-How to DAD-Result: 0
+	-How To Make Everything-Result: 0
+	-The Weeknd-Result: 1
+	-Ranz Kyle-Result: 0
+	-H O N N E-Result: 0
+	-Rudimental-Result: 1
+	-HACKADAY-Result: 0
+	-H3 Podcast Highlights-Result: 1
+	-LukeBryanVEVO-Result: 0
+	-BrainfooTV-Result: 1
+	-Lenarr Young-Result: 0
+	-PrettyMuchVEVO-Result: 0
+	-Blue Origin-Result: 0
+	-Clean Bandit-Result: 1
+	-Peter Brown-Result: 0
+	-Topi The Corgi-Result: 0
+	-5MadMovieMakers-Result: 0
+	-XAmbassadorsVEVO-Result: 0
+	-Major Lazer-Result: 1
+	-AmazingPhil-Result: 1
+	-Charlie Corts-Result: 1
+	-Looper-Result: 1
+	-Deep Look-Result: 1
+	-TiffyQuake-Result: 0
+	-SHAYTARDS-Result: 1
+	-RoadsideFlix-Result: 0
+	-Chloe x Halle-Result: 0
+	-Wassabi Productions-Result: 1
+	-Omaze-Result: 0
+	-Sugar Pine 7-Result: 0
+	-acaciacutie-Result: 0
+	-Access-Result: 1
+	-Veritasium-Result: 0
+	-Troom Troom-Result: 1
+	-SiriusXM-Result: 0
+	-Ultra Music-Result: 1
+	-E! Live from the Red Carpet-Result: 0
+	-Morgan Adams-Result: 1
+	-Shay Mitchell-Result: 1
+	-Camila Cabello-Result: 0
+	-CNNMoney-Result: 0
+	-mmschocolate-Result: 0
+	-Dua Lipa-Result: 1
+	-GreatScott!-Result: 0
+	-HowToBasic-Result: 1
+	-Bebe Rexha-Result: 1
+	-USA Gymnastics-Result: 0
+	-Ben Pluimer-Result: 1
+	-JackWhiteVEVO-Result: 0
+	-Gorillaz-Result: 1
+	-Ellie and Jared-Result: 0
+	-radiodisney-Result: 1
+	-BBC America-Result: 0
+	-SELF-Result: 1
+	-Berd-Result: 0
+	-Beats 1 Radio-Result: 0
+	-Cammie Scott-Result: 0
+	-Man About Cake-Result: 0
+	-Erika Costell-Result: 1
+	-United Launch Alliance-Result: 0
+	-Sprinkleofglitter-Result: 0
+	-Liza Koshy Too-Result: 1
+	-ignoramusky-Result: 0
+	-Olympic-Result: 0
+	-SnoopDoggVEVO-Result: 0
+	-Michael Dapaah-Result: 0
+	-AlishaMarieVlogs-Result: 1
+	-SomeThingElseYT-Result: 1
+	-Everyday Astronaut-Result: 0
+	-officialcharlixcx-Result: 0
+	-The Official Pokémon YouTube channel-Result: 1
+	-G-Eazy-Result: 0
+	-JOE.ie-Result: 0
+	-The Atlantic-Result: 0
+	-DrakeVEVO-Result: 1
+	-Highlight Heaven-Result: 1
+	-Beme News-Result: 0
+	-clothesencounters-Result: 0
+	-Google Developers-Result: 1
+	-Ingrid Nilsen-Result: 0
+	-PostmodernJukebox-Result: 0
+	-Business Insider UK-Result: 0
+	-Bill Gates-Result: 0
+	-Boldly-Result: 0
+	-Bruno Mars-Result: 1
+	-Kensuke Koike-Result: 1
+	-Trailers Promos Teasers-Result: 0
+	-DragTimes-Result: 0
+	-Buttered Side Down-Result: 0
+	-RachhLoves-Result: 0
+	-Nile Wilson-Result: 0
+	-Unecht Erfunden-Result: 0
+	-Lucas-Result: 0
+	-SUMERIAN-Result: 1
+	-Disney On Broadway-Result: 1
+	-PolyMatter-Result: 0
+	-Cimorelli-Result: 0
+	-Maggie Lindemann-Result: 1
+	-Just Between Us-Result: 0
+	-DuckSoss-Result: 1
+	-Steve1989MREInfo-Result: 0
+	-heyitsfeiii-Result: 0
+	-googledoodles-Result: 1
+	-Julien Solomita-Result: 0
+	-LukeCombsVEVO-Result: 0
+	-PsychoSoprano-Result: 1
+	-Jack Coyne-Result: 0
+	-devinsupertramp-Result: 1
+	-amc-Result: 0
+	-Dr. Sandra Lee (aka Dr. Pimple Popper)-Result: 0
+	-The Wendy Williams Show-Result: 0
+	-Don Diablo-Result: 1
+	-Rob Scallon-Result: 0
+	-Kayley Melissa-Result: 0
+	-Jess Conte-Result: 1
+	-ToniBraxtonVEVO-Result: 1
+	-Whistle Sports-Result: 1
+	-Famous Celebrities Snaps-Result: 0
+	-FOOD INSIDER-Result: 1
+	-Kyle Jennermann-Result: 0
+	-TechCrunch-Result: 0
+	-johnlegendVEVO-Result: 1
+	-TechRax-Result: 1
+	-Matt Bentkowski-Result: 1
+	-League of Legends-Result: 1
+	-LecraeVEVO-Result: 0
+	-Cat Man Chris-Result: 0
+	-Kim Kardashian West-Result: 1
+	-WHAT'S INSIDE? FAMILY-Result: 0
+	-Green Day-Result: 0
+	-E! News-Result: 0
+	-Nickelodeon-Result: 0
+	-WE tv-Result: 0
+	-ThatcherJoe-Result: 1
+	-ABC Television Network-Result: 1
+	-TheScriptVEVO-Result: 0
+	-IGN News-Result: 0
+	-My Virgin Kitchen-Result: 0
+	-Mark Wiens-Result: 1
+	-TmarTn2-Result: 0
+	-Mean Girls on Broadway-Result: 0
+	-Nyma Tang-Result: 0
+	-Momentum Pictures-Result: 0
+	-LOOK MUM NO COMPUTER-Result: 1
+	-Liverpool FC-Result: 1
+	-Nike-Result: 1
+	-Drew Lynch-Result: 0
+	-KYLE HANAGAMI-Result: 1
+	-Dani Ochoa-Result: 0
+	-GPhase-Result: 1
+	-MariahCareyVEVO-Result: 0
+	-Foot Locker-Result: 1
+	-Keke Palmer-Result: 0
+	-Extra Credits-Result: 0
+	-David Dobrik-Result: 1
+	-FoxSearchlight-Result: 0
+	-Moulin Rouge! the Musical-Result: 0
+	-Derek Hough-Result: 0
+	-Doug Ellison-Result: 1
+	-K-MUSIC-Result: 1
+	-Official Charts-Result: 0
+	-MYSTERY SCIENCE THEATER 3000-Result: 0
+	-MaggieRogersVEVO-Result: 0
+	-GRB rally-Result: 0
+	-Pepsi-Result: 0
+	-OVO Sound-Result: 1
+	-Mr Sunday Movies-Result: 1
+	-PitbullVEVO-Result: 1
+	-Huxley Berg Studios-Result: 0
+	-My Self Reliance-Result: 0
+	-Major League Soccer-Result: 1
+	-Steve TV Show-Result: 0
+	-A&E-Result: 1
+	-the Hacksmith-Result: 1
+	-thataylaa-Result: 0
+	-TMZSports-Result: 0
+	-Real Madrid C.F.-Result: 0
+	-Theme Park Review-Result: 0
+	-Battle Universe!-Result: 1
+	-Rebel Wilson-Result: 0
+	-CBS New York-Result: 0
+	-SHOWTIME Sports-Result: 0
+	-iamAURORAVEVO-Result: 1
+	-CJENMMUSIC Official-Result: 1
+	-Tiffany Day-Result: 1
+	-shane-Result: 1
+	-ByronTalbott-Result: 0
+	-Christina Aguilera-Result: 1
+	-Riverdale-Result: 1
+	-SmarterEveryDay-Result: 0
+	-AlisonWonderlandVEVO-Result: 0
+	-Alex French Guy Cooking-Result: 0
+	-Shawn Johnson East-Result: 0
+	-Shameless Maya-Result: 0
+	-marshmello-Result: 1
+	-Seonkyoung Longest-Result: 0
+	-ScatterBrain News-Result: 1
+	-TurboTax-Result: 0
+	-mugumogu-Result: 0
+	-BØRNSmusicVEVO-Result: 0
+	-Access Hollywood-Result: 0
+	-WUSA9-Result: 1
+	-Rapid Trailer-Result: 0
+	-Walt Disney Animation Studios-Result: 1
+	-AnimalWised-Result: 0
+	-Asian Boss-Result: 0
+	-The king of DIY-Result: 0
+	-bulletvalentineVEVO-Result: 1
+	-austinmcconnell-Result: 0
+	-Warped Perception-Result: 1
+	-3Blue1Brown-Result: 0
+	-The Deal Guy-Result: 0
+	-Tanner Fox-Result: 1
+	-Bramty Juliette-Result: 0
+	-Cosmopolitan.com-Result: 0
+	-BrettYoungVEVO-Result: 1
+	-BBC Sport-Result: 0
+	-Lil Wayne-Result: 1
+	-LifeAccordingToJimmy-Result: 0
+	-Snapchat-Result: 1
+	-littlemixVEVO-Result: 1
+	-CamVEVO-Result: 0
+	-ITV-Result: 0
+	-INQUIRER.net-Result: 0
+	-The Rock-Result: 0
+	-Funny Or Die-Result: 0
+	-Trace Cyrus-Result: 0
+	-ElectroBOOM-Result: 0
+	-The Royal Family-Result: 1
+	-Mary Giannone-Result: 0
+	-SeanPaulVEVO-Result: 1
+	-matt-Result: 1
+	-ZEDDVEVO-Result: 1
+	-dodieVEVO-Result: 0
+	-CatCreature-Result: 0
+	-Niki and Gabi-Result: 1
+	-BenTheBondsman-Result: 1
+	-Saint Louis Chess Club-Result: 0
+	-Sabrina Claudio-Result: 1
+	-SUPERFRUIT-Result: 0
+	-NoahCyrusVEVO-Result: 1
+	-Arden Rose-Result: 0
+	-IncubusVEVO-Result: 0
+	-Special Books by Special Kids-Result: 0
+	-Lindsay Webster-Result: 0
+	-The Key of Awesome-Result: 0
+	-amazon-Result: 1
+	-Talking Kitty Cat-Result: 1
+	-Tessa Violet-Result: 0
+	-Joan Kim-Result: 0
+	-Eric Strebel-Result: 0
+	-Maymo-Result: 1
+	-CBS-Result: 0
+	-JackJohnsonVEVO-Result: 0
+	-CBS Evening News-Result: 0
+	-Sufficiently Advanced-Result: 0
+	-Missouri Star Quilt Company-Result: 0
+	-CBS Sunday Morning-Result: 0
+	-Los Angeles Times-Result: 0
+	-The X Factor UK-Result: 1
+	-Motherboard-Result: 0
+	-Doug Jones for Senate-Result: 0
+	-Gigi Gorgeous-Result: 0
+	-Engineering Explained-Result: 0
+	-ThomasRhettVEVO-Result: 1
+	-It's Okay To Be Smart-Result: 0
+	-Global Road Entertainment-Result: 1
+	-Attaullah Malik-Result: 1
+	-Spotify-Result: 0
+	-Inside the Magic-Result: 0
+	-Zebra Corner-Result: 1
+	-Tom Daley-Result: 0
+	-Sonic the Hedgehog-Result: 0
+	-HANSON-Result: 0
+	-Freedom of the Press Foundation-Result: 0
+	-Patricia Bright-Result: 1
+	-WaterTower Music-Result: 0
+	-wdwmagic-Result: 1
+	-Kylie Jenner-Result: 1
+	-WINNER-Result: 1
+	-FliteTest-Result: 0
+	-Ram Trucks-Result: 1
+	-RomanAtwoodVlogs-Result: 1
+	-Pitch Perfect-Result: 1
+	-PeopleTV-Result: 0
+	-Piece Of Me Tour Planet Hollywood-Result: 0
+	-Kitty Hawk-Result: 1
+	-XenonJohn-Result: 0
+	-Horizon Productions SFL-Result: 1
+	-Philly D-Result: 0
+	-PBS Space Time-Result: 0
+	-Keyboard Cat-Result: 0
+	-DIY Perks-Result: 1
+	-Peter McKinnon-Result: 0
+	-WildTurkeyBourbon-Result: 0
+	-People are Awesome-Result: 1
+	-Roy Moore for Senate-Result: 1
+	-YBF Chic-Result: 0
+	-1MILLION Dance Studio-Result: 1
+	-LadBaby Official-Result: 0
+	-stacyvlogs-Result: 0
+	-HANSE 한세-Result: 0
+	-Australia-Result: 1
+	-ChloexHalleVEVO-Result: 1
+	-oregon-Result: 1
+	-Conan Gray-Result: 0
+	-UFC - Ultimate Fighting Championship-Result: 0
+	-SB-LII Commercials-Result: 1
+	-Will Darbyshire-Result: 0
+	-Barcroft Animals-Result: 0
+	-Paweł Zadrożniak-Result: 0
+	-Motion Station-Result: 0
+	-LustreLux-Result: 0
+	-Lyft-Result: 1
+	-Lorraine-Result: 0
+	-A Chick Called Albert-Result: 1
+	-J.J. McCullough-Result: 0
+	-Eva Lunde Bentley-Result: 0
+	-Wouldn't Change a Thing-Result: 1
+	-Third Leg Studios-Result: 0
+	-ThirtySecondsToMarsVEVO-Result: 1
+	-StingVEVO-Result: 0
+	-Monster Cable Products-Result: 0
+	-This Is Us-Result: 0
+	-Millie T-Result: 0
+	-adidas Football-Result: 1
+	-Michelob ULTRA-Result: 1
+	-Function-Result: 0
+	-Recording Academy / GRAMMYs-Result: 1
+	-Strange incident-Result: 0
+	-hp_overload-Result: 1
+	-Lucy Moon-Result: 0
+	-ColdFusion-Result: 0
+	-DJSnakeVEVO-Result: 1
+	-Mark Sales-Result: 1
+	-Warner Bros. UK-Result: 1
+	-Magnolia Pictures & Magnet Releasing-Result: 0
+	-The Orchard Movies-Result: 0
+	-The Oregonian-Result: 0
+	-The Pet Collective-Result: 1
+	-JayRockVEVO-Result: 1
+	-Quicken Loans-Result: 0
+	-Duston Ward-Result: 1
+	-Jeep-Result: 1
+	-Brat-Result: 1
+	-Practical Engineering-Result: 0
+	-Applied Science-Result: 0
+	-Corinne Leigh-Result: 0
+	-BrasherN-Result: 1
+	-Pokémon GO-Result: 1
+	-Annapurna Channel-Result: 1
+	-The Valleyfolk-Result: 0
+	-Edward Avila-Result: 0
+	-Crusoe the Celebrity Dachshund-Result: 0
+	-BUILD Series-Result: 0
+	-Maddie Ziegler-Result: 0
+	-MNEKVEVO-Result: 0
+	-Rapid Highlights-Result: 1
+	-TheOdd1sOut-Result: 1
+	-TheTimTracker-Result: 0
+	-WFLA News Channel 8-Result: 0
+	-Tesla-Result: 1
+	-Passenger-Result: 0
+	-theCHIVE-Result: 1
+	-Mercury News-Result: 0
+	-Dwarf Mamba-Result: 1
+	-Chicago Sun-Times-Result: 0
+	-Demi Lovato-Result: 0
+	-BrantleyGilbertVEVO-Result: 0
+	-Jon B.-Result: 0
+	-Dj Earworm-Result: 0
+	-All is Art-Result: 1
+	-New Orleans Saints on NOLA.com-Result: 0
+	-Just Jared Jr-Result: 0
+	-AIA awards-Result: 0
+	-FreeDawkins-Result: 0
+	-Just Wow me-Result: 1
+	-Campo Santo Productions-Result: 0
+	-Top Korean News-Result: 0
+	-LIL UZI VERT-Result: 1
+	-ToriKellyVEVO-Result: 0
+	-Dave Lee-Result: 0
+	-Grandpa Kitchen-Result: 0
+	-Dancing On Ice-Result: 0
+	-HyundaiUSA-Result: 1
+	-littlerobotgirl-Result: 1
+	-The Telegraph-Result: 1
+	-Disney Descendants-Result: 1
+	-Cards Against Humanity-Result: 1
+	-TromaMovies-Result: 1
+	-Royal Blood-Result: 0
+	-LaMadelynn-Result: 0
+	-Shade 45-Result: 0
+	-Legendary-Result: 1
+	-Tpindell-Result: 0
+	-IFC-Result: 0
+	-Tom Stanton-Result: 0
+	-ChrisBrownVEVO-Result: 1
+	-KBSKpop-Result: 1
+	-Hudson Moore-Result: 0
+	-Global News-Result: 1
+	-Vevo-Result: 1
+	-YTN NEWS-Result: 0
+	-jenniferhudsonVEVO-Result: 0
+	-Youtube Tea-Result: 0
+	-Sriram Murali-Result: 0
+	-Muse-Result: 1
+	-Paramount Network-Result: 1
+	-MrBeast-Result: 1
+	-Dolan Twins-Result: 1
+	-Blonded-Result: 1
+	-Chilly Willy-Result: 1
+	-Alpha Entertainment-Result: 0
+	-FOX-Result: 0
+	-Revolt TV-Result: 1
+	-Ben Actis-Result: 1
+	-Turn10Studios-Result: 0
+	-Christopher Davis-Result: 0
+	-EvanescenceVEVO-Result: 0
+	-Calvin Klein-Result: 1
+	-shgurr-Result: 1
+	-Tom Harlock-Result: 0
+	-Tide-Result: 1
+	-The Weather Channel-Result: 1
+	-BerkleyLovesTori-Result: 0
+	-Land Rover-Result: 1
+	-Bethel Music-Result: 0
+	-Jordan Wilson-Result: 1
+	-Josh Levine-Result: 0
+	-Aunty Donna-Result: 0
+	-Karina Garcia-Result: 1
+	-Malik Nabee-Result: 0
+	-blayze999-Result: 0
+	-brutalmoose-Result: 0
+	-BETNetworks-Result: 0
+	-Leroy Sanchez-Result: 0
+	-KFlayVEVO-Result: 0
+	-Let Me Explain Studios-Result: 1
+	-Tony Baker Comedy-Result: 0
+	-KIND Snacks-Result: 0
+	-John Maclean-Result: 0
+	-Victoria's Secret-Result: 0
+	-KygoOfficialVEVO-Result: 1
+	-LouisTomlinsonVEVO-Result: 1
+	-Zendaya-Result: 1
+	-To Scale:-Result: 0
+	-Johnny Jansen-Result: 0
+	-Vinheteiro-Result: 0
+	-alt-J-Result: 0
+	-KBAK - KBFX - Eyewitness News - BakersfieldNow-Result: 1
+	-VICELAND-Result: 1
+	-Lil Peep-Result: 1
+	-BellaThorneVEVO-Result: 0
+	-TheUnlockr-Result: 0
+	-ThreeDaysGraceVEVO-Result: 1
+	-UrAvgConsumer-Result: 1
+	-Entertainment Weekly-Result: 0
+	-JheneAikoVEVO-Result: 1
+	-LexusVehicles-Result: 1
+	-Freddie Twenty-Result: 0
+	-TheInternetVEVO-Result: 1
+	-JonTronShow-Result: 1
+	-automotivemaster1972-Result: 0
+	-TheAngryGrandpaShow-Result: 1
+	-The1975VEVO-Result: 1
+	-Beats by Dre-Result: 1
+	-DrinkBODYARMOR-Result: 0
+	-Carla Resendiz-Result: 1
+	-mariahxlambily-Result: 1
+	-Sam Chui-Result: 1
+	-Samantha Maria-Result: 0
+	-Samsung Mobile USA-Result: 0
+	-Adult Swim-Result: 1
+	-Scotty Kilmer-Result: 0
+	-ScottyMcCreeryVEVO-Result: 0
+	-Newsy-Result: 0
+	-Newsflare-Result: 0
+	-Senator Chris Murphy-Result: 0
+	-New York Daily News-Result: 0
+	-New England Patriots-Result: 0
+	-Netflix Asia-Result: 1
+	-Manny Mua-Result: 1
+	-SKITTLESbrand-Result: 0
+	-Alec Steele-Result: 0
+	-CaptainDisillusion-Result: 0
+	-Alex Gilbert-Result: 0
+	-Alex Meyers-Result: 0
+	-NIXOLAS-Result: 0
+	-NFL World-Result: 0
+	-NFL Network-Result: 1
+	-Slooh-Result: 0
+	-Good Morning Britain-Result: 0
+	-Solid Gold Aquatics-Result: 0
+	-NASCAR-Result: 0
+	-Allie Glines-Result: 0
+	-ChangeofplanZ-Result: 0
+	-nickjonas-Result: 0
+	-Máquina Voadora-Result: 0
+	-Persil ProClean-Result: 0
+	-R3HAB-Result: 0
+	-Collins Key-Result: 1
+	-HaileeSteinfeldVEVO-Result: 1
+	-RagnBoneManVEVO-Result: 0
+	-GwenStefaniVEVO-Result: 0
+	-voordeel-Result: 0
+	-vnbreyes-Result: 0
+	-tonyvera1902-Result: 0
+	-Philadelphia Eagles-Result: 0
+	-PhakeNam-Result: 0
+	-Reaction Time-Result: 1
+	-DaHoopSpot Productions-Result: 0
+	-Hazel Hayes-Result: 0
+	-OWN-Result: 0
+	-ParsonJamesVEVO-Result: 0
+	-Parks and Recreation-Result: 0
+	-Circus HalliGalli-Result: 0
+	-ChvrchesVEVO-Result: 0
+	-shakiraVEVO-Result: 1
+	-Chris Turner-Result: 0
+	-PB Comps-Result: 0
+	-ABC Action News-Result: 1
+	-Oscars-Result: 1
+	-Rob Bliss-Result: 1
+	-David Archuleta-Result: 0
+	-reputationswift-Result: 0
+	-Doctor Who-Result: 1
+	-Walking With Giants-Result: 0
+	-MassLive-Result: 0
+	-ET Canada-Result: 1
+	-Mashed-Result: 1
+	-TNT-Result: 0
+	-JamesBlakeVEVO-Result: 0
+	-DunkFest-Result: 0
+	-GamingWithJen-Result: 1
+	-TRYANGLE FILMS-Result: 1
+	-The Cuddle Squad-Result: 0
+	-GeorgeEzraVEVO-Result: 0
+	-Wall Street Journal-Result: 0
+	-Sport Hub-Result: 0
+	-Max Skipper-Result: 0
+	-The 2x Family-Result: 1
+	-Max Fagin-Result: 0
+	-ESPN UK-Result: 1
+	-The ACE Family-Result: 1
+	-Bud Light-Result: 1
+	-Andrew Lowe-Result: 1
+	-Gcincorp Ecommerce and Real Estate-Result: 0
+	-MrTreknation-Result: 0
+	-Movieclips Coming Soon-Result: 0
+	-GohmertTX01-Result: 0
+	-Brent Pella-Result: 1
+	-Dorkly-Result: 1
+	-Martin Garrix-Result: 1
+	-The Ohana Adventure-Result: 0
+	-Mnet K-POP-Result: 1
+	-Squirrel Monkey-Result: 0
+	-MoorInfo-Result: 0
+	-Step Up: High Water-Result: 1
+	-iggyazaleamusicVEVO-Result: 1
+	-Star Wars Coffee-Result: 0
+	-KISS FM UK-Result: 0
+	-HOT 97-Result: 1
+	-AnselElgortVEVO-Result: 1
+	-slaymeclarkson c:-Result: 0
+	-souviendra-Result: 0
+	-cicigoodies2011-Result: 0
+	-Asthmatic Kitty Records-Result: 0
+	-KFC-Result: 0
+	-KKandbabyJ-Result: 0
+	-Healthcare Triage-Result: 0
+	-Henry Prince Mak-Result: 0
+	-AviciiOfficialVEVO-Result: 1
+	-Groupon-Result: 1
+	-Awkward Puppets-Result: 0
+	-emma chamberlain-Result: 0
+	-World Eyes-Result: 0
+	-4given4ever1-Result: 0
+	-Aymeric Favard-Result: 0
+	-JayZVEVO-Result: 1
+	-Jessica Braun | JAMbeauty89-Result: 0
+	-thegameawards-Result: 1
+	-Jesse-Result: 1
+	-Guy Tang-Result: 1
+	-kehlani parrish-Result: 0
+	-Graham The Christian-Result: 1
+	-Highsnobiety-Result: 0
+	-gzumwalt-Result: 0
+	-Adult Swim UK-Result: 0
+	-Jacob Collier-Result: 0
+	-gamelovercommercials-Result: 0
+	-I.T. Channel-Result: 0
+	-IAmAnneMarie-Result: 0
+	-Zach Simmons-Result: 0
+	-heroedelahistoria-Result: 0
+	-barnabydixon-Result: 0
+	-JP & Julia-Result: 0
+	-hwow-Result: 0
+	-JK Brickworks-Result: 0
+	-FrenchMontanaVEVO-Result: 1
+	-It's a Southern Thing-Result: 0
+	-John Sellars-Result: 0
+	-JoergSprave-Result: 0
+	-mittromney-Result: 0
+	-Andrew Rowland-Result: 0
+	-Adam's Apple-Result: 0
+	-foofightersVEVO-Result: 0
+	-Huw Parkinson-Result: 0
+	-Yoga With Adriene-Result: 0
+	-Jalopnik-Result: 0
+	-Anew Start-Result: 0
+	-Animal Adventure Park-Result: 0
+	-nothorwitzer-Result: 0
+	-ASMR Darling-Result: 1
+	-JamesAVEVO-Result: 1
+	-HouzzTV-Result: 0
+	-Animal Planet-Result: 0
+	-Honda-Result: 0
+	-Austin Burk-Result: 0
+	-Jeopardy!-Result: 1
+	-Prime Video-Result: 1
+	-Katzun-Result: 0
+	-SodaStream-Result: 1
+	-DoodleChaos-Result: 0
+	-DonDiablo-Result: 0
+	-Sports Lovers n1-Result: 0
+	-Sports Illustrated-Result: 0
+	-CYNVEVO-Result: 0
+	-Sound Bites-Result: 0
+	-NBA Stats All Seasons-Result: 0
+	-NFVEVO-Result: 1
+	-Movie Munchies-Result: 0
+	-NOLA.com-Result: 0
+	-Capital FM-Result: 1
+	-NZPoliceRecruitment-Result: 1
+	-Natalies Outlet-Result: 1
+	-Diet Coke-Result: 0
+	-Seth's Bike Hacks-Result: 0
+	-New Amsterdam-Result: 1
+	-StarTalk-Result: 0
+	-CFL Insider-Result: 0
+	-NewsFunnies-Result: 0
+	-Tanner Braungardt-Result: 1
+	-East Idaho News-Result: 0
+	-The Angie Martinez Show-Result: 0
+	-ELLEUKTV-Result: 0
+	-The 1975-Result: 1
+	-Budweiser-Result: 1
+	-Business InsiderAu-Result: 0
+	-Technomanila-Result: 0
+	-Swish Daily-Result: 1
+	-StoryCorps-Result: 0
+	-CBS Chicago-Result: 0
+	-Mike Diva-Result: 0
+	-SuperwomanVlogs-Result: 0
+	-Summoning Salt-Result: 0
+	-Keith Urban-Result: 0
+	-Miss Universe-Result: 1
+	-MisterWivesVEVO-Result: 0
+	-News 5 Cleveland-Result: 1
+	-Nick Ramos-Result: 1
+	-BreakingBenjaminVEVO-Result: 1
+	-D3sports.com-Result: 0
+	-Peaceful Cuisine-Result: 0
+	-Peloton-Result: 0
+	-Pero Like-Result: 0
+	-PeterSripol-Result: 0
+	-Reach Records-Result: 0
+	-Cody'sLab-Result: 0
+	-Cody'sLab Backup-Result: 0
+	-Pinball Wiz-Result: 1
+	-Rella On the radio-Result: 1
+	-Rainer Hilland-Result: 0
+	-Pixielocks-Result: 0
+	-PointlessBlogVlogs-Result: 0
+	-Radio Andy-Result: 0
+	-CrashRacing-Result: 1
+	-Popcorn with Peter Travers-Result: 0
+	-Conor Maynard-Result: 1
+	-Cleveland Cavaliers on cleveland.com-Result: 0
+	-DanAndPhilGAMES-Result: 1
+	-Nickelback-Result: 0
+	-Ryan Canty-Result: 1
+	-Scotty Sire-Result: 1
+	-Caspar-Result: 0
+	-Dennis Kapatos-Result: 0
+	-SIRAH-Result: 0
+	-NowThis World-Result: 1
+	-Dawid Szmandra-Result: 0
+	-Ryan Davidson-Result: 0
+	-Chris Reinacher-Result: 0
+	-Pac-12 Networks-Result: 0
+	-OlanRogers-Result: 0
+	-Royal Academy of Arts-Result: 0
+	-One List , One Life-Result: 0
+	-Open Road Films-Result: 1
+	-Orion Pictures-Result: 1
+	-PHP-Result: 1
+	-PLAYERUNKNOWN'S BATTLEGROUNDS-Result: 0
+	-Mashable Daily-Result: 0
+	-MGMTVEVO-Result: 0
+	-Barstool Sports-Result: 0
+	-TimandFaithVEVO-Result: 0
+	-Marie McGann-Result: 0
+	-KipMooreVEVO-Result: 0
+	-TheKillersVEVO-Result: 0
+	-Kitten Lady-Result: 0
+	-ThePianoGuys-Result: 0
+	-Battlefield-Result: 1
+	-Ben Rohrbach-Result: 0
+	-LD Entertainment-Result: 0
+	-Kraft Brand-Result: 0
+	-Fancy Vlogs By Gab-Result: 0
+	-Kristin Johns-Result: 0
+	-MOMOMOYOUTHVEVO-Result: 0
+	-Be Amazed-Result: 0
+	-Kyle Gunderson-Result: 0
+	-LuisFonsiVEVO-Result: 1
+	-This Morning-Result: 0
+	-VOsprey22-Result: 0
+	-Vet Ranch-Result: 0
+	-LoeyLane-Result: 0
+	-BeOurGuest-Result: 0
+	-Living Big In A Tiny House-Result: 0
+	-Bloomberg Politics-Result: 0
+	-TheBackyardScientist-Result: 1
+	-LissieVEVO-Result: 0
+	-MTV International-Result: 0
+	-Makeupshayla-Result: 0
+	-Turkish Airlines-Result: 1
+	-Beth Kobliner-Result: 0
+	-Tryst Network-Result: 0
+	-BRIGHT SIDE-Result: 1
+	-LaToya Forever-Result: 0
+	-Elton John-Result: 0
+	-Kevin Noonan-Result: 0
+	-BachelorsPadTv-Result: 1
+	-MandisaVEVO-Result: 0
+	-Voicebot-Result: 0
+	-Elvis Duran Show-Result: 0
+	-The Tommy Edison Experience-Result: 0
+	-VICE-Result: 0
+	-Beyond The Trailer-Result: 0
+	-The Unipiper-Result: 0
+	-End of Ze World-Result: 0
+	-Toyota USA-Result: 0
+	-MaccabeatsVideos-Result: 0
+	-Darren Criss-Result: 0
+	-Chris Rosa-Result: 1
+	-BeckVEVO-Result: 0
+	-Freddie Lister-Result: 1
+	-Chris Hadfield's Rare Earth-Result: 0
+	-AT&T-Result: 1
+	-AFP news agency-Result: 0
+	-Beats 1 on Apple Music-Result: 1
+	-Bret Baier-Result: 0
+	-730 WVFN-Result: 0
+	-Daniel Howell-Result: 1
+	-52 Skillz-Result: 0
+	-BLACKPINK-Result: 1
+	-Fontgod-Result: 0
+	-CrashCourse-Result: 0
+	-H&M-Result: 0
+	-FloSports-Result: 0
+	-Cultaholic-Result: 0
+	-BBALLBREAKDOWN-Result: 0
+	-Gustawny-Result: 0
+	-Christine Sydelko-Result: 0
+	-First Aid Kit-Result: 0
+	-BaconLegs-Result: 0
+	-Guldies-Result: 0
+	-Cody'sBLab-Result: 0
+	-Daily Davidsons-Result: 0
+	-Feelunique-Result: 0
+	-Clark Zhu-Result: 0
+	-Ben Katz-Result: 1
+	-F Milburn-Result: 0
+	-Abroad in Japan-Result: 0
+	-Adam Smith-Result: 1
+	-CMT-Result: 0
+	-Alto's Adventure-Result: 0
+	-CHRIS-RS-Result: 1
+	-Amazon.co.uk-Result: 0
+	-Amber Liu-Result: 0
+	-Gerry Litwin-Result: 1
+	-CBS Films-Result: 1
+	-Emma Massingale-Result: 0
+	-Andre Will Do It-Result: 1
+	-Emirates-Result: 0
+	-Dustin Penner-Result: 0
+	-EltonJohnVEVO-Result: 1
+	-Apple Support-Result: 0
+	-EA SPORTS FIFA-Result: 1
+	-Anthem Game-Result: 1
+	-Galantis-Result: 0
+	-Bruce Land-Result: 0
+	-British Vogue-Result: 1
+	-Bravo-Result: 0
+	-Brian Klug-Result: 0
+	-Anna Saccone-Result: 1
+	-DopeBoyTroy-Result: 0
+	-Errant Signal-Result: 0
+	-Donut Media-Result: 0
+	-Car Throttle-Result: 0
+	-CatPusic-Result: 0
+	-Bethany Mota-Result: 1
+	-Desus & Mero-Result: 0
+	-FILMWEBTV-Result: 0
+	-Big Ten Network-Result: 0
+	-Billboard News-Result: 0
+	-Billy Graham Evangelistic Association-Result: 0
+	-BleachersVEVO-Result: 0
+	-Caravan Carolyn-Result: 0
+	-Car Commercials of the Past-Result: 0
+	-Funny New Videos-Result: 0
+	-Goodwillsandusky-Result: 0
+	-Candide Thovex-Result: 1
+	-Cam'ron-Result: 1
+	-Evan Edinger-Result: 0
+	-European Space Agency, ESA-Result: 0
+	-CS Dojo-Result: 0
+	-Esther Bellido-Result: 1
+	-Golden State Warriors-Result: 0
+	-Blurred Culture-Result: 0
+	-DreamWorksTV-Result: 1
+	-영국남자 Korean Englishman-Result: 1
+	-WeatherTech-Result: 0
+	-Moby-Result: 0
+	-WhatsUpMoms-Result: 0
+	-WhatCulture Wrestling-Result: 0
+	-MoreZoella-Result: 1
+	-Movie'n'co UK-Result: 0
+	-West Midlands Police-Result: 1
+	-Wengie-Result: 1
+	-MrMobile [Michael Fisher]-Result: 0
+	-WXYZ-TV Detroit | Channel 7-Result: 1
+	-NBA on ESPN-Result: 0
+	-NWSSanDiego-Result: 0
+	-WGA West-Result: 0
+	-Nathan C-Result: 0
+	-Vlogs By DK4L-Result: 0
+	-NinaNesbittMusicVEVO-Result: 0
+	-NitroV2-Result: 0
+	-Noah Nicholls-Result: 1
+	-Now You See It-Result: 0
+	-Viva La Dirt League-Result: 0
+	-OK Go-Result: 1
+	-Onur Altuğ Sever-Result: 0
+	-Outback Steakhouse-Result: 0
+	-Vic Dibitetto-Result: 0
+	-Verizon-Result: 0
+	-Whitney Avalon-Result: 0
+	-Milkmen Design-Result: 0
+	-hudsonunionsociety-Result: 0
+	-Mikey Murphy-Result: 1
+	-Kylie Moy-Result: 1
+	-grandayy-Result: 1
+	-engineerguy-Result: 0
+	-Lauren Elizabeth-Result: 0
+	-eLL cartoons-Result: 0
+	-dope2111-Result: 1
+	-doddlevloggle-Result: 0
+	-Livia Giustiniani-Result: 0
+	-Lofty Pursuits-Result: 1
+	-MAZELEE-Result: 0
+	-MGM-Result: 1
+	-MN khan-Result: 1
+	-danisnotinteresting-Result: 0
+	-communitychannel-Result: 0
+	-cgriesemer-Result: 0
+	-Marco Reps-Result: 0
+	-Marcos Horacio-Result: 0
+	-Marteen Estevez-Result: 0
+	-MassMutual-Result: 0
+	-Matt Steffanina-Result: 0
+	-Matt and Kim-Result: 0
+	-Wix.com-Result: 0
+	-Michael Rigsby-Result: 0
+	-PONY Syndrome-Result: 0
+	-Paris Hilton-Result: 0
+	-Patrick Nan-Result: 1
+	-University of Rochester EEOC Complainants-Result: 0
+	-TheBeatlesVEVO-Result: 0
+	-Rise-Result: 0
+	-The Sydney Morning Herald-Result: 0
+	-The Square to Spare-Result: 0
+	-HARRY-Result: 0
+	-RocketJump Film School-Result: 0
+	-The Sports King-Result: 0
+	-The Ringer-Result: 0
+	-Ryan Northover-Result: 0
+	-Ryan Williams-Result: 0
+	-The Current Source-Result: 0
+	-The CGBros-Result: 0
+	-Terrormink-Result: 0
+	-Sauber F1 Team-Result: 0
+	-Technology Connections-Result: 0
+	-Sesame Street-Result: 0
+	-Syracuse Orange-Result: 0
+	-Sherylcrow-Result: 0
+	-Summit-Result: 0
+	-Strange Parts-Result: 0
+	-Smyang Piano-Result: 0
+	-Star Wars HQ-Result: 0
+	-Speks-Result: 0
+	-Ricky Dillon-Result: 0
+	-TheCubician-Result: 0
+	-RetroManCave-Result: 0
+	-RAP DAILY-Result: 1
+	-Philadelphia 76ers-Result: 0
+	-U.S. Navy-Result: 0
+	-Pitchfork-Result: 0
+	-Plasma Channel-Result: 0
+	-PlayStation-Result: 1
+	-Troye Sivan-Result: 0
+	-Pomegranate Sunshine-Result: 0
+	-Popular Woodworking-Result: 0
+	-Prince Marcus-Result: 0
+	-Toyota Global-Result: 1
+	-RZSS Highland Wildlife Park-Result: 0
+	-Redline Reviews-Result: 0
+	-TopClips247-Result: 1
+	-Rachelleea-Result: 0
+	-Radio Physics and Electronics-Result: 0
+	-RawBeautyKristi-Result: 0
+	-Rclbeauty101-Result: 1
+	-TobyMacVEVO-Result: 0
+	-Tina Nguyen-Result: 0
+	-Tim Gray-Result: 0
+	-Recanto Ecológico Rio da Prata-Result: 1
+	-TheVampsVEVO-Result: 0
+	-Kotaku-Result: 0
+	-Sprint-Result: 1
+	-John Lewis-Result: 1
+	-legofreedom1-Result: 0
+	-Hush Kit-Result: 0
+	-Illumination-Result: 1
+	-Hayley Kiyoko-Result: 1
+	-KTVU-Result: 0
+	-lisbug-Result: 0
+	-sWooZie-Result: 1
+	-officer401-Result: 0
+	-Jenn Im-Result: 0
+	-HarryStylesVEVO-Result: 1
+	-Jessica Clements-Result: 0
+	-India Love-Result: 0
+	-ombremor-Result: 0
+	-JohnNewmanVEVO-Result: 1
+	-Hillsong Worship-Result: 0
+	-Jessica Kellgren-Fozard-Result: 0
+	-Kia Motors America-Result: 1
+	-Jessica Vu-Result: 0
+	-HaimVEVO-Result: 0
+	-KATC-Result: 0
+	-HQVideoDude-Result: 0
+	-ワーナー ブラザース 公式チャンネル-Result: 1
+	-Karim Jovian-Result: 0
+	-ilikeweylie-Result: 0
+	-Kelly Eden-Result: 0
+	-J Gasser-Result: 0
+	-Big Cat Rescue-Result: 0
+	-TraceyThornVEVO-Result: 0
+	-Trevor Wallace-Result: 0
+	-Corridor-Result: 0
+	-iKON-Result: 1
+	-ToveLoVEVO-Result: 0
+	-Quad9 DNS-Result: 0
+	-Torm place-Result: 0
+	-ATPWorldTour-Result: 0
+	-JAY-Result: 0
+	-Billions-Result: 0
+	-ROME REPORTS in English-Result: 0
+	-Topic-Result: 0
+	-paul wheaton-Result: 0
+	-ARIKITCHEN (아리키친)-Result: 0
+	-RachelPlattenVEVO-Result: 0
+	-RackaRacka-Result: 1
+	-CrowsEyeProductions-Result: 0
+	-DJI-Result: 0
+	-Jake Roper-Result: 0
+	-POPSUGAR-Result: 0
+	-NoahKahanVEVO-Result: 0
+	-Nobrand-Result: 0
+	-Define American-Result: 0
+	-Daz Games-Result: 0
+	-David Sistaro-Result: 0
+	-David Jardine-Result: 0
+	-Oceana-Result: 0
+	-Video Library-Result: 0
+	-Oscar Fury-Result: 0
+	-melodysheep-Result: 0
+	-Jason Yu-Result: 0
+	-AdelaineMorin-Result: 0
+	-Adam Whitley-Result: 0
+	-Geoff Mallinson-Result: 0
+	-monday.com, formerly dapulse-Result: 0
+	-Unique Vibes-Result: 0
+	-Penguin Books South Africa-Result: 0
+	-BehindTheSounds-Result: 0
+	-UJ-Result: 0
+	-DKDKTV-Result: 0
+	-Ben Kronengold-Result: 1
+	-DJKhaledVEVO-Result: 1
+	-BishopBriggsVEVO-Result: 0
+	-Adam Neely-Result: 0
+	-Pies Are Awesome-Result: 0
+	-Cyprus Air Heating, Cooling and Fireplaces-Result: 0
+	-ALL URBAN CENTRAL-Result: 1
+	-ABC7-Result: 1
+	-Rainsford-Result: 0
+	-See You Yang-Result: 0
+	-The Modern Rogue-Result: 0
+	-The Lore Master-Result: 0
+	-SR Trailers and Interviews-Result: 0
+	-tovestyrkeVEVO-Result: 0
+	-Channon Rose Vlogs-Result: 0
+	-SRAM MTB-Result: 0
+	-Channel 4-Result: 0
+	-The Bachelor Insider-Result: 0
+	-Sam Sheffer-Result: 0
+	-Saskatchewan Rush-Result: 0
+	-42Fab - Metalworking and Multi-Medium Fabrication-Result: 0
+	-Techmoan-Result: 0
+	-Tamika Hall-Result: 0
+	-Rappler-Result: 0
+	-Symon-Result: 0
+	-Hannah Meloche-Result: 0
+	-Shesez-Result: 0
+	-ShibSibs-Result: 0
+	-Halfway Anywhere-Result: 0
+	-Studio MDHR-Result: 1
+	-Street Speed 717-Result: 0
+	-Campari-Result: 0
+	-Smequle-Result: 0
+	-Southwest Florida Eagle Cam-Result: 0
+	-Spectrum Haleskarth-Result: 0
+	-COVERGIRL-Result: 0
+	-Chevrolet-Result: 0
+	-Gregg Peterson-Result: 0
+	-The Office US-Result: 0
+	-thevirts-Result: 0
+	-Inthefrow-Result: 0
+	-Real World Records-Result: 0
+	-Coca-Cola-Result: 0
+	-Tom Thum-Result: 0
+	-JimBrowski 96HourNews-Result: 0
+	-Recode-Result: 0
+	-Red Bull Records-Result: 0
+	-Bob Przybylo-Result: 0
+	-Renault Sport-Result: 0
+	-Represent.Us-Result: 0
+	-TheHoonigans-Result: 0
+	-TheGracieC-Result: 0
+	-shurap-Result: 0
+	-The University of Chicago-Result: 0
+	-Chriselle Lim-Result: 0
+	-9-1-1 on FOX-Result: 0
+	-Roadshow-Result: 0
+	-Howl Of A Dog-Result: 1
+	-startelegramvideo-Result: 0
+	-60 Minutes-Result: 0
+	-Hopeless Records-Result: 0
+	-Russell Howard-Result: 0
+	-Chris Lee-Result: 0
+	-Choir! Choir! Choir!-Result: 0
+	-Braxen McConnell-Result: 0
+	-Jessii Vee-Result: 0
+	-HALO-Result: 1
+	-Alabama Crimson Tide on AL.com-Result: 0
+	-Max Hertan-Result: 0
+	-cocheusadoooo-Result: 0
+	-kimbramusic-Result: 0
+	-blvck King-Result: 0
+	-Mamrie Hart-Result: 0
+	-Forgotten Weapons-Result: 0
+	-Atlanta Hawks-Result: 0
+	-Zero Media-Result: 1
+	-AusAntarctic-Result: 0
+	-MasterClass-Result: 1
+	-Nicol Concilio-Result: 0
+	-lara6683-Result: 0
+	-X Games-Result: 0
+	-AutoGuide.com-Result: 0
+	-Maddie Lymburner-Result: 0
+	-EA SPORTS-Result: 1
+	-Mercedes-AMG Petronas Motorsport-Result: 0
+	-Avocados From Mexico-Result: 0
+	-Writers Guild of America East-Result: 0
+	-Michael Bublé-Result: 0
+	-Frank May-Result: 0
+	-Midnight Video-Result: 0
+	-BAFTA-Result: 0
+	-Duan Mackenzie-Result: 0
+	-Mike H-Result: 0
+	-leonalewis-Result: 0
+	-Ján Ilavský-Result: 1
+	-Empire-Result: 0
+	-kawaiisweetworld-Result: 0
+	-JuJu Smith-Schuster-Result: 0
+	-Liam Gallagher-Result: 0
+	-Kingsley-Result: 0
+	-greyson97-Result: 0
+	-Kingdom Hearts-Result: 1
+	-FailArmy-Result: 1
+	-FaeryInLoveInc-Result: 0
+	-Facelesstech-Result: 0
+	-geicocaveman2012-Result: 0
+	-LGR-Result: 0
+	-gameslice-Result: 1
+	-Lame Videos-Result: 1
+	-Kevin Rabatin-Result: 0
+	-Kevin Durant-Result: 0
+	-Lifetime-Result: 0
+	-MK Dons-Result: 0
+	-Like Stories of Old-Result: 0
+	-Exploring Alternatives-Result: 0
+	-AmandaMoor & Craft Ideas-Result: 0
+	-doddleoddle-Result: 0
+	-MARIO TESTINO-Result: 0
+	-Estée Lalonde-Result: 0
+	-jeremiah johnson-Result: 0
+	-dekuNukem-Result: 0
+	-Erin Noelle-Result: 0
+	-Kat Cunning-Result: 0
+	-daronjay-Result: 0
+	-Any rubbish-Result: 0
+	-DreamCastle_629-Result: 0
+	-Matoma-Result: 0
+	-NBA Highlights · YouTube-Result: 0
+	-Jon Olsson-Result: 0
+	-Mrwhosetheboss-Result: 1
+	-Mustache Wax-Result: 0
+	-Vote The Process-Result: 0
+	-Dish Nation-Result: 0
+	-BMW USA-Result: 1
+	-FrownsUpsideDown-Result: 0
+	-Alex Aiono-Result: 0
+	-NASA-Result: 0
+	-Muselk-Result: 0
+	-Donald J. Trump Topic-Result: 0
+	-Nathan Robinson-Result: 0
+	-Voltfolio-Result: 0
+	-Nicki Shields-Result: 0
+	-MovieAccessTrailers-Result: 0
+	-JohnnyQ90-Result: 0
+	-WTHR-Result: 0
+	-BBC Music-Result: 1
+	-lugeyps3-Result: 0
+	-Funny Commercials-Result: 1
+	-Alesso-Result: 1
+	-NOVA's Secret Life of Scientists and Engineers-Result: 0
+	-DrMachakil-Result: 0
+	-National Safety Council-Result: 0
+	-Despierta América-Result: 0
+	-John Varvatos-Result: 0
+	-Jimmy Built-Result: 0
+	-Navenanthen Gepardieu-Result: 0
+	-Tegan and Sara-Result: 0
+	-Violin MD-Result: 0
+	-3D Printing Nerd-Result: 0
+	-Bundesliga-Result: 0
+	-But First, Coffee-Result: 1
+	-Tentmaker Pictures-Result: 0
+	-VidCon-Result: 0
+	-The Alex Jones Channel-Result: 0
+	-yovo68-Result: 0
+	-marjolijn2-Result: 0
+	-Amanda Palmer-Result: 0
+	-The Cincinnati Zoo & Botanical Garden-Result: 0
+	-eba era-Result: 0
+	-flirppy242-Result: 0
+	-Taras Malyar-Result: 0
+	-ekaggrat singh kalsi-Result: 0
+	-Srinath .S-Result: 0
+	-Amelia Liana-Result: 0
+	-StanDrawsSpaceships-Result: 0
+	-greeenpro-Result: 0
+	-AirPano-Result: 0
+	-CMAVEVO-Result: 0
+	-Steeper33-Result: 0
+	-Stefany Gonzalez-Result: 0
+	-Никита Ордынский-Result: 1
+	-Vostok.bike-Result: 0
+	-CBS Philly-Result: 0
+	-Banana Culture Music-Result: 1
+	-Barn Sanctuary-Result: 0
+	-StudiocanalUK-Result: 0
+	-SumerianRecords-Result: 0
+	-fuzywazacolin-Result: 0
+	-Andy Grammer-Result: 0
+	-SupremeSounds-Result: 0
+	-WLKY News Louisville-Result: 0
+	-2CELLOS-Result: 0
+	-TV One-Result: 0
+	-iotexpert-Result: 0
+	-Amarullah Rizky-Result: 0
+	-Anthem Lights-Result: 0
+	-neilyoungchannel-Result: 0
+	-BT Sport-Result: 1
+	-Benn and Gear-Result: 0
+	-Squarespace-Result: 1
+	-XFL-Result: 0
+	-Bloomberg-Result: 0
+	-rollingstoneonline-Result: 0
+	-rock on-Result: 0
+	-mvt.ias-Result: 0
+	-BenDeen-Result: 0
+	-X Factor Italia-Result: 0
+	-razzark666-Result: 0
+	-Bkav Corp-Result: 1
+	-Avocado-Result: 1
+	-Vat19Nvjds-Result: 0
+	-Turbo Conquering Mega Eagle-Result: 0
+	-pjmorton-Result: 0
+	-Wintergatan-Result: 0
+	-Whyte Foxx Music Videos & More-Result: 0
+	-negermano-Result: 0
+	-Beyonce-Result: 1
+	-What I've Learned-Result: 0
+	-Why Don't We-Result: 1
+	-littleBits Electronics-Result: 0
+	-Townsends-Result: 0
+	-Xscape - Topic-Result: 0
+	-ThisDustIn-Result: 0
+	-All Def Digital-Result: 0
+	-TheMeanKitty-Result: 0
+	-iDB-Result: 0
+	-The Nocturnal Alchemist-Result: 0
+	-Useless Duck Company-Result: 0
+	-monatheband-Result: 0
+	-Us Weekly-Result: 0
+	-The Scam On Demand-Result: 0
+	-AlmazanKitchen-Result: 0
+	-theSkimm-Result: 0
+	-WQAD News 8-Result: 0
+	-colourpopcosmetics-Result: 0
+	-Ubisoft North America-Result: 1
+	-The Thought Emporium-Result: 0
+	-BellatorMMA-Result: 1
+	-blackbearVEVO-Result: 1
+	-UCAN Zippers USA-Result: 0
+	-smoothiethecat-Result: 0
+	-kmichelle-Result: 0
+	-samfryltd-Result: 1
+	-astroboy1960-Result: 0
+	-Audience Network-Result: 0
+	-TheJuicyJVEVO-Result: 0
+	-Valk Aviation-Result: 1
+	-Rock & Roll Hall of Fame-Result: 0
+	-Doritos®-Result: 1
+	-Kerry Wong-Result: 0
+	-Kacey Musgraves - Topic-Result: 0
+	-Ford Motor Company-Result: 0
+	-Ford Europe-Result: 0
+	-Daily Caller-Result: 1
+	-Kanimuna Kisaka-Result: 0
+	-Palo Alto Online-Result: 0
+	-PAC ENTRETENIMENTO / DJ IVAN DAVIS-Result: 0
+	-Peter Caine Dog Training-Result: 0
+	-Flash Rahbbit-Result: 0
+	-Kevin Stein-Result: 0
+	-OneBitMusicVEVO-Result: 1
+	-Fifty Shades-Result: 1
+	-Kita Osaka-Result: 0
+	-David Windestal-Result: 0
+	-Fox Business-Result: 0
+	-KBS World TV-Result: 1
+	-Kortney Steury-Result: 0
+	-Context Information Security-Result: 0
+	-RealNewsNetworkMedia-Result: 0
+	-Gatorade-Result: 1
+	-Radovan Lazic-Result: 1
+	-Rachel and Jun-Result: 1
+	-RESSENCE WATCHES-Result: 0
+	-QUARTZ-Result: 0
+	-PrincessPiaMiaVEVO-Result: 0
+	-CyclingTips-Result: 0
+	-JessieJVEVO-Result: 0
+	-Funny News-Result: 0
+	-FundingCircleUK-Result: 0
+	-CrazyLaughAction-Result: 0
+	-Frog The Rooster-Result: 0
+	-Pittsburgh Dad-Result: 0
+	-FerrasVEVO-Result: 0
+	-Desktop Makes-Result: 0
+	-Cloth Map-Result: 0
+	-Loudwire-Result: 0
+	-MeganBatoon-Result: 0
+	-FIFATV-Result: 0
+	-MattMasonPhotography-Result: 0
+	-LewisCapaldiVEVO-Result: 0
+	-Masters Of The Sun-Result: 0
+	-Lotto New Zealand-Result: 0
+	-MDNA SKIN-Result: 0
+	-Michael Callaghan-Result: 0
+	-Mark Linsangan-Result: 0
+	-MILCK-Result: 0
+	-Mark Ferris-Result: 0
+	-EllieGouldingVEVO-Result: 0
+	-MITCHELL WIGGS-Result: 1
+	-MOBO Awards-Result: 0
+	-Mercedes-Benz-Result: 0
+	-MiddleKidsVEVO-Result: 0
+	-New York Magazine-Result: 0
+	-LOFTON SHAW-Result: 0
+	-FamilyFeud-Result: 1
+	-Na So We See Am-Result: 0
+	-FacelesswithEyesOpen-Result: 0
+	-Domain of Science-Result: 0
+	-L2inc-Result: 0
+	-FRANKIEmusicVEVO-Result: 0
+	-MrNorrisVideos-Result: 0
+	-Mike Austin-Result: 1
+	-Specialized Bicycles-Result: 0
+	-Mr Ben Brown-Result: 0
+	-Mountain Dew-Result: 0
+	-DraftExpress-Result: 0
+	-Monster Energy-Result: 0
+	-Lane Anderson-Result: 1
+	-Coachella-Result: 1
+	-Crafty Panda-Result: 0
+	-Clicknetwork-Result: 0
+	-SaggyJ-Result: 1
+	-Saved By The Max-Result: 0
+	-Catch-Up TV-Result: 0
+	-Hybrid Network-Result: 0
+	-Sailing La Vagabonde-Result: 0
+	-In Case You Missed It-Result: 0
+	-India Survival Guide-Result: 0
+	-SadeVEVO-Result: 1
+	-Cartoon Hangover-Result: 0
+	-Chappell Roan-Result: 0
+	-Intuit-Result: 1
+	-Invisible People-Result: 0
+	-SBS TV동물농장x애니멀봐-Result: 0
+	-Chili Klaus-Result: 1
+	-GoDucksdotcom-Result: 0
+	-How It Should Have Ended-Result: 1
+	-Carly and Erin-Result: 0
+	-Ryan Calme-Result: 0
+	-Slednecks-Result: 0
+	-Sparkee Music-Result: 0
+	-Song Of Style-Result: 0
+	-HOTSPOTATL-Result: 0
+	-SnekTek-Result: 0
+	-Hak5-Result: 0
+	-Hannah Witton-Result: 0
+	-Canada Soccer-Result: 0
+	-Hollyscoop-Result: 0
+	-Single Shot-Result: 0
+	-Sieuwe Elferink-Result: 0
+	-Haru the Shiba Inu-Result: 0
+	-Shmee150-Result: 0
+	-Helen Anderson-Result: 0
+	-Shantell Martin-Result: 0
+	-Iris-Result: 1
+	-Interscope Records-Result: 0
+	-Clash of Clans-Result: 1
+	-RickyMartinVEVO-Result: 0
+	-Izac Less-Result: 0
+	-Chris and Jack-Result: 0
+	-Rob Andretti-Result: 0
+	-Red Robot - Intelligent Distribution-Result: 0
+	-It's a small world-Result: 0
+	-Cleveland Browns-Result: 0
+	-GinWigmoreVEVO-Result: 0
+	-J S-Result: 0
+	-IsraeliPM-Result: 0
+	-Roxette Arisa-Result: 1
+	-RedCurtainEnt-Result: 1
+	-empireofthesunvevo-Result: 0
+	-Late Show with David Letterman-Result: 0
+	-Grist-Result: 0
+	-Lawrence Livermore National Laboratory-Result: 0
+	-Absolut-Result: 0
+	-494ta-Result: 0
+	-edlover4real-Result: 0
+	-toofacedcosmetics-Result: 0
+	-Aerie-Result: 0
+	-Jenny Hanell-Result: 0
+	-ladygagaarraza-Result: 0
+	-LetsGoWarriors-Result: 0
+	-misleadingsilhouette-Result: 0
+	-Lily Pebbles-Result: 0
+	-Guinness World Records-Result: 0
+	-GameXplain-Result: 1
+	-Алексей Навальный-Result: 1
+	-JarJar Abrams-Result: 0
+	-ТСН-Result: 0
+	-Genuine Survival Research Labs-Result: 0
+	-dannotv-Result: 0
+	-Enter Shikari-Result: 0
+	-JanPaul123-Result: 0
+	-Madmorda-Result: 0
+	-HiHo Kids-Result: 0
+	-Lamborghini-Result: 0
+	-cineytele-Result: 0
+	-James Veitch-Result: 0
+	-KSNV News 3 Las Vegas-Result: 0
+	-Frankie Vision-Result: 0
+	-onsetfacilities.com-Result: 0
+	-Alicia Keys-Result: 0
+	-Katy Perry-Result: 0
+	-jbalvinVEVO-Result: 0
+	-poofables-Result: 0
+	-FlyFastandLow-Result: 0
+	-Just Marcus-Result: 0
+	-Gondwana Collection Namibia-Result: 0
+	-Freeform-Result: 0
+	-revlon-Result: 0
+	-Freemeo-Result: 0
+	-FunForLouis-Result: 0
+	-Abhishek Singh-Result: 0
+	-lugnutsoldcrap-Result: 0
+	-Kris Harbour-Result: 0
+	-I'm With Her-Result: 0
+	-Kylie Minogue-Result: 0
+	-American Bridge 21st Century-Result: 0
+	-Itzztonytony-Result: 0
+	-HvdH-Plane-Spotter-Result: 1
+	-Anaki Abo-Result: 0
+	-90s Commercials-Result: 0
+	-GrDrtube-Result: 0
+	-mayratouchofglam-Result: 0
+	-Hot Dad-Result: 0
+	-taalk com-Result: 0
+	-Maggie Smith Kühn-Result: 0
+	-Spinach Dippa-Result: 0
+	-chris lee-Result: 0
+	-CityNews Toronto-Result: 0
+	-SHOWTIME-Result: 0
+	-Check It Out-Result: 1
+	-The Players' Tribune-Result: 0
+	-Ryan Is Driving-Result: 0
+	-Ryan-Result: 0
+	-Chris Sturgeon-Result: 0
+	-RihannaNavyVevo-Result: 0
+	-The Warp Zone-Result: 0
+	-RiceGum-Result: 1
+	-Chubbyemu-Result: 1
+	-Republican News Watch-Result: 0
+	-Thomas Sebastian-Result: 0
+	-Trevor Moran-Result: 0
+	-Tim Barrett-Result: 0
+	-Blockbuster-Result: 0
+	-ClovesVEVO-Result: 0
+	-CoinDaddy-Result: 0
+	-Tony Berza-Result: 0
+	-Birdbox Studio-Result: 0
+	-Commercials Funny-Result: 0
+	-Confuse News-Result: 0
+	-Total Combat-Result: 0
+	-TrainVEVO-Result: 0
+	-Pop & Sports HQ-Result: 0
+	-Charles Chan-Result: 0
+	-BrianJustinCrum-Result: 0
+	-Brothers Green Eats-Result: 0
+	-The Anna Edit-Result: 0
+	-So I Had This Idea...-Result: 0
+	-CIRCUITBEARD-Result: 0
+	-Steve Kovach-Result: 0
+	-Stewart Brand-Result: 0
+	-StorrorBlog-Result: 0
+	-Skelly Robot-Result: 0
+	-Shyrynne-Result: 1
+	-Super Netvid-Result: 1
+	-Shawn-Result: 0
+	-Shaaanxo-Result: 0
+	-TDAmeritrade-Result: 0
+	-Carlos Campos-Result: 0
+	-Talks at Google-Result: 0
+	-Taylor Alexander-Result: 0
+	-Taylor R-Result: 0
+	-Science vs Cinema-Result: 0
+	-Sarasota Police Department-Result: 0
+	-Samsung-Result: 1
+	-Ten Second Songs-Result: 1
+	-Caters Clips-Result: 0
+	-Burritoxman-Result: 0
+	-That Japanese Man Yuta-Result: 1
+	-Chad Kroeger-Result: 0
+	-BeyondSlowMotion-Result: 0
+	-Bethesda Softworks-Result: 1
+	-郭韋辰-Result: 0
+	-Dylan Locke-Result: 0
+	-Nahre Sol-Result: 0
+	-Disneyland Experience-Result: 0
+	-NARLtv-Result: 0
+	-Must Love Science-Result: 0
+	-MsAaliyahJay-Result: 0
+	-Wallows-Result: 0
+	-Wendy's-Result: 0
+	-Mom Will Be Proud-Result: 0
+	-DrakeBellVEVO-Result: 0
+	-Mike Olbinski-Result: 0
+	-Duncan Sinfield-Result: 0
+	-Mayo Clinic-Result: 0
+	-Polyphonic-Result: 0
+	-Max Joseph-Result: 1
+	-EVNautilus-Result: 0
+	-Xbox-Result: 0
+	-ElbowVEVO-Result: 0
+	-Auralnauts-Result: 0
+	-Zach King-Result: 0
+	-Electron Dust-Result: 0
+	-bigclivedotcom-Result: 0
+	-bitluni's lab-Result: 0
+	-Manifest-Result: 1
+	-Maker's Box-Result: 0
+	-Dina Tokio-Result: 0
+	-Neil Fraser-Result: 0
+	-Dean Anderson-Result: 0
+	-Obama Foundation-Result: 0
+	-CrossKut316-Result: 0
+	-Tu Fan-Result: 0
+	-Tucker Gott-Result: 0
+	-Cyberpunk 2077-Result: 1
+	-Twin Shadow-Result: 0
+	-Tyler Williams-Result: 1
+	-Pick Up Limes-Result: 0
+	-PhilPhillipsVEVO-Result: 0
+	-UEFA.tv-Result: 0
+	-PetaPixel-Result: 1
+	-Penguin Books UK-Result: 0
+	-UMF TV-Result: 1
+	-Daelric-Result: 0
+	-PekingDukVEVO-Result: 0
+	-Paul Sellers-Result: 0
+	-Dale Dai-Result: 1
+	-PK Inventor-Result: 0
+	-PESfilm-Result: 0
+	-Danny Sapko-Result: 0
+	-Davey Swatpaz-Result: 0
+	-VideoGameAds-Result: 0
+	-OjO Commuter Scooter by OjO Electric-Result: 0
+	-Viral Paws-Result: 0
+	-12 News-Result: 0

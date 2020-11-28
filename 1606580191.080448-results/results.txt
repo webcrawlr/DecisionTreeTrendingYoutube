@@ -1,0 +1,14 @@
+CHANNEL_SPEC:
+-----------------
+
+Decision Tree Final Performance: 0.8869352869352869
+Decision Tree Best Hyperparameters:
+{'depthLimit': 16, 'exampleLimit': 43}
+
+
+NO_CHANNEL_SPEC:
+-----------------
+
+Decision Tree Final Performance: 0.8816849816849817
+Decision Tree Best Hyperparameters:
+{'depthLimit': 449, 'exampleLimit': 50}
